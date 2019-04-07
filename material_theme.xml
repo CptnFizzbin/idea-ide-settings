@@ -5,9 +5,11 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="9100e9" />
-    <option name="userId" value="-2cedeaa7:169f4f20a19:-8000" />
+    <option name="accentColor" value="7a0eaa" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="-7c448346:169d16116cf:-8000" />
     <option name="version" value="3.8.0.2" />
   </component>
 </application>
