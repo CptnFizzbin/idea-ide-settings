@@ -1,0 +1,22 @@
+<templateSet group="JavaScript Testing">
+  <template name="afa" value="after(function(done) {&#10;  $END$&#10;  done();&#10;});" description="Inserts async after() block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="afea" value="afterEach(function(done) {&#10;  $END$&#10;  done();&#10;});" description="Inserts async afterEach() block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="bfea" value="beforeEach(function(done) {&#10;  $END$&#10;  done();&#10;});" description="Inserts aync beforeEach() block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="bfa" value="before(function(done) {&#10;  $END$&#10;  done();&#10;});" description="Inserts aync before() block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
