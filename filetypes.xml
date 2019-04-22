@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="201904221255_ENGREP-40_add_eccn_to_products" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
