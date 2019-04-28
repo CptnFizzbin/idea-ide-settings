@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="creq" value="const $ITEM$ = require('$MODULE$');&#10;$END$" description="Require statement - const a = require('a')" toReformat="true" toShortenFQNames="true">
+  <template name="creq" value="const $ITEM$ = require('$MODULE$');$END$" description="Require statement - const a = require('a')" toReformat="true" toShortenFQNames="true">
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
