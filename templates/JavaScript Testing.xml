@@ -35,7 +35,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rxdone" value=".subscribe(() =&gt; done(), error =&gt; done(error));" description="Inserts .subscribe(done)" toReformat="true" toShortenFQNames="true">
+  <template name="rxd" value=".subscribe(() =&gt; done(), error =&gt; done(error));" description="Inserts .subscribe(done)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rxdc" value=".subscribe(() =&gt; done(), error =&gt; done(error), () =&gt; done());" description="Inserts .subscribe(done) with complete" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
