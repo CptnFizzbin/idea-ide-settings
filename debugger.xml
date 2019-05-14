@@ -2,12 +2,15 @@
   <component name="XDebuggerSettings">
     <data-views>
       <option name="showLibraryStackFrames" value="false" />
+      <option name="valueLookupDelay" value="150" />
     </data-views>
     <general />
     <debuggers>
-      <debugger id="javascript">
+      <debugger id="dotnet_debugger">
         <configuration>
-          <custom-object-presentation />
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
         </configuration>
       </debugger>
     </debuggers>
