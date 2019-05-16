@@ -32,6 +32,7 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
