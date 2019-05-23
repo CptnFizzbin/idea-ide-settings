@@ -477,6 +477,22 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/concurrent-ruby-1.1.4/ext" />
       </excluded>
     </library>
+    <library name="concurrent-ruby (v1.1.5, ruby-2.3.3-p222) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.5/ext" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.5/ext" />
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.5/ext" />
+      </excluded>
+    </library>
     <library name="crass (v1.0.4, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -728,6 +744,17 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/factory_bot_rails-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="faker (v1.9.3, ruby-2.3.3-p222) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faker-1.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/faker-1.9.3/lib" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.10.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -850,6 +877,17 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/i18n-0.9.1/test" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/i18n-0.9.1/gemfiles" />
       </excluded>
+    </library>
+    <library name="i18n (v1.6.0, ruby-2.3.3-p222) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/i18n-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/i18n-1.6.0/lib" />
+      </SOURCES>
     </library>
     <library name="i18n (v1.6.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
