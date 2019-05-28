@@ -998,6 +998,36 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/faker-1.9.3/lib" />
       </SOURCES>
     </library>
+    <library name="fast_excel (v0.2.6, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/fast_excel/0.2.6" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/ext" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/examples" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/benchmarks" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/libxlsxwriter" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/fast_excel/0.2.6" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/ext" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/examples" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/benchmarks" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/libxlsxwriter" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/ext" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/examples" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/benchmarks" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/libxlsxwriter" />
+      </excluded>
+    </library>
     <library name="ffi (v1.10.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1012,6 +1042,22 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/ffi-1.10.0-x64-mingw32/samples" />
+      </excluded>
+    </library>
+    <library name="ffi (v1.11.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
       </excluded>
     </library>
     <library name="ffi (v1.9.25, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -1840,12 +1886,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/lib" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/lib" />
