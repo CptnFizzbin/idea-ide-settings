@@ -265,6 +265,17 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/backport-0.3.0/bin" />
       </excluded>
     </library>
+    <library name="benchmark-memory (v0.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-memory-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-memory-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.2.8, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1502,6 +1513,17 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="memory_profiler (v0.9.13, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/memory_profiler-0.9.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/memory_profiler-0.9.13/lib" />
+      </SOURCES>
     </library>
     <library name="method_source (v0.9.2, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
