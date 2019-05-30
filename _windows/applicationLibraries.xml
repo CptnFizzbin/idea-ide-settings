@@ -265,6 +265,17 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/backport-0.3.0/bin" />
       </excluded>
     </library>
+    <library name="benchmark-memory (v0.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-memory-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-memory-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.2.8, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -998,6 +1009,34 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/faker-1.9.3/lib" />
       </SOURCES>
     </library>
+    <library name="fast_excel (v0.2.6, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/ext" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/examples" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/benchmarks" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/libxlsxwriter" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/ext" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/examples" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/benchmarks" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/libxlsxwriter" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/ext" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/examples" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/benchmarks" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/libxlsxwriter" />
+      </excluded>
+    </library>
     <library name="ffi (v1.10.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1012,6 +1051,22 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/ffi-1.10.0-x64-mingw32/samples" />
+      </excluded>
+    </library>
+    <library name="ffi (v1.11.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
       </excluded>
     </library>
     <library name="ffi (v1.9.25, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -1459,6 +1514,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="memory_profiler (v0.9.13, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/memory_profiler-0.9.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/memory_profiler-0.9.13/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.9.2, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1840,12 +1906,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/lib" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/lib" />
@@ -2598,6 +2666,31 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-1.13.2/examples" />
       </excluded>
     </library>
+    <library name="roo (v2.8.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/spec" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/.github" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/spec" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/.github" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/spec" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/.github" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/examples" />
+      </excluded>
+    </library>
     <library name="rspec (v3.7.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2910,6 +3003,31 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.1.0/test" />
       </excluded>
     </library>
+    <library name="rubyXL (v3.4.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/tmp" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/rdoc" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/spec" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/tmp" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/rdoc" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/spec" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/tmp" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/rdoc" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/spec" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/test" />
+      </excluded>
+    </library>
     <library name="rubyzip (v1.0.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2959,6 +3077,25 @@
       <excluded>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/test" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/samples" />
+      </excluded>
+    </library>
+    <library name="rubyzip (v1.2.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/samples" />
       </excluded>
     </library>
     <library name="sass (v3.7.3, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -3148,6 +3285,25 @@
       <excluded>
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.3/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.3/test" />
+      </excluded>
+    </library>
+    <library name="spreadsheet (v1.2.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/bin" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/bin" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/bin" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/test" />
       </excluded>
     </library>
     <library name="sprockets (v3.7.2, ruby-2.5.1-p57) [gem]" type="rubylib">
