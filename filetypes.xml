@@ -5,6 +5,7 @@
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
