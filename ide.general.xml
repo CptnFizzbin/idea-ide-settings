@@ -10,5 +10,6 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="js.debugger.webconsole" value="false" />
   </component>
 </application>
