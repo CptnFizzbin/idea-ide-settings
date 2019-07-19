@@ -4,7 +4,7 @@
     <property name="created">2019-04-08T08:14:06</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-13T08:05:22</property>
+    <property name="modified">2019-07-12T07:54:28</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -1393,6 +1393,11 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="4cc3c6" />
       </value>
     </option>
     <option name="JS.MODULE_KEYWORD">
