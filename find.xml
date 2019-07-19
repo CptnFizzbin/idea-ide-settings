@@ -14,5 +14,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
+    <mask>*.erb</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
