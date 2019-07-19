@@ -1,9 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/mocha" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="actioncable (v5.0.7.2, rbenv: 2.3.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/actioncable-5.0.7.2/lib" />
