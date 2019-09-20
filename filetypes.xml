@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="check_jira_consistency" type="Shell Script" />
       <mapping pattern="synchronize" type="Shell Script" />
       <mapping pattern="sync_pht_products" type="Shell Script" />
     </extensionMap>
