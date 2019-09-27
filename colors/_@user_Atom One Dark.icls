@@ -4,7 +4,7 @@
     <property name="created">2019-04-08T08:14:06</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-12T07:54:28</property>
+    <property name="modified">2019-09-27T09:29:05</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -3256,7 +3256,7 @@
     </option>
     <option name="RUBY_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="98c379" />
+        <option name="FOREGROUND" value="4ac3c0" />
       </value>
     </option>
     <option name="RUBY_WORDS">
