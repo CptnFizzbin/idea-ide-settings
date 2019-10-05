@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Perl5 Plugin Update Message" displayType="NONE" />
+  </component>
+</application>
