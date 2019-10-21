@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Perl5 Plugin Update Message" displayType="NONE" />
+    <notification groupId="Suggest Run Dashboard" displayType="NONE" />
   </component>
 </application>
