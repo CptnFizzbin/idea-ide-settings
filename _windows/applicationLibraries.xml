@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="actioncable (v6.0.0.beta2, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actioncable-6.0.0.beta2/app" />
