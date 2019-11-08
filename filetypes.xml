@@ -8,6 +8,12 @@
       <mapping pattern="201904221255_ENGREP-40_add_eccn_to_products" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="clear_mailcatcher" type="Shell Script" />
+      <mapping pattern="cleanup_temp_data" type="Shell Script" />
+      <mapping pattern="update_toast_statistics" type="Shell Script" />
+      <mapping pattern="generate_statistics" type="Shell Script" />
+      <mapping pattern="synchronize" type="Shell Script" />
+      <mapping pattern="cron_job_check" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
