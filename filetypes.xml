@@ -2,19 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern="201904221255_ENGREP-40_add_eccn_to_products" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
+      <mapping pattern="201904221255_ENGREP-40_add_eccn_to_products" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="clear_mailcatcher" type="Shell Script" />
-      <mapping pattern="cleanup_temp_data" type="Shell Script" />
-      <mapping pattern="update_toast_statistics" type="Shell Script" />
-      <mapping pattern="check_cron_jobs" type="Shell Script" />
-      <mapping pattern="generate_statistics" type="Shell Script" />
-      <mapping pattern="synchronize" type="Shell Script" />
-      <mapping pattern="cron_job_check" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
