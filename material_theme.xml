@@ -8,10 +8,11 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
-    <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="9542ff" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="42a5f5" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="12ca64b9:168bdadbde7:-8000" />
-    <option name="version" value="4.4.6" />
+    <option name="version" value="4.11.4" />
   </component>
 </application>
