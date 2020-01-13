@@ -6,13 +6,19 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl l" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="ParameterInfo" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
