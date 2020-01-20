@@ -4,14 +4,10 @@
     <property name="created">2018-04-04T15:12:24</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-08-23T08:43:33</property>
+    <property name="modified">2020-01-20T11:07:56</property>
     <property name="originalScheme">_@user_Material Monokai Pro</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="aedc70" />
