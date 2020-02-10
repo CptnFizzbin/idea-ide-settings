@@ -50,6 +50,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Diff.ShowDiff">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581343703157" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
@@ -474,6 +482,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581343950386" />
+              <option name="times" value="22" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.diff.impl.DiffRequestProcessor$MyPrevDifferenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581343741526" />
+              <option name="times" value="10" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
           <value>
             <ActionSummary>
@@ -533,8 +557,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581343610909" />
-              <option name="times" value="11" />
+              <option name="last" value="1581343739955" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
