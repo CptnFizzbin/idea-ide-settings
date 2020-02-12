@@ -53,8 +53,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581362778167" />
-              <option name="times" value="5" />
+              <option name="last" value="1581367853975" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,8 +165,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581367787344" />
-              <option name="times" value="2150" />
+              <option name="last" value="1581367864215" />
+              <option name="times" value="2156" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581367758908" />
-              <option name="times" value="261" />
+              <option name="last" value="1581367804398" />
+              <option name="times" value="263" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581367760834" />
-              <option name="times" value="298" />
+              <option name="last" value="1581367805783" />
+              <option name="times" value="300" />
             </ActionSummary>
           </value>
         </entry>
@@ -629,8 +629,8 @@
         <entry key="Rerun">
           <value>
             <ActionSummary>
-              <option name="last" value="1581367768257" />
-              <option name="times" value="128" />
+              <option name="last" value="1581367849278" />
+              <option name="times" value="134" />
             </ActionSummary>
           </value>
         </entry>
@@ -741,8 +741,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581356297807" />
-              <option name="times" value="1" />
+              <option name="last" value="1581367874039" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="com.intellij.ide.actions.ExpandAllToolbarAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581367771206" />
-              <option name="times" value="26" />
+              <option name="last" value="1581367799768" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -885,8 +885,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348931574" />
-              <option name="times" value="1" />
+              <option name="last" value="1581515712108" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -943,6 +943,14 @@
             <ActionSummary>
               <option name="last" value="1581367553530" />
               <option name="times" value="22" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.vcs.commit.ChangesViewCommitPanel$DefaultCommitAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581367868735" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
