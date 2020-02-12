@@ -13,8 +13,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521497878" />
-              <option name="times" value="106" />
+              <option name="last" value="1581522429543" />
+              <option name="times" value="112" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581520952537" />
-              <option name="times" value="10" />
+              <option name="last" value="1581522519094" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,8 +165,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521311793" />
-              <option name="times" value="2314" />
+              <option name="last" value="1581522529775" />
+              <option name="times" value="2317" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,16 +485,16 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521095538" />
-              <option name="times" value="15" />
+              <option name="last" value="1581522400710" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521114664" />
-              <option name="times" value="71" />
+              <option name="last" value="1581522422297" />
+              <option name="times" value="72" />
             </ActionSummary>
           </value>
         </entry>
@@ -613,8 +613,8 @@
         <entry key="ReformatCode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521290513" />
-              <option name="times" value="56" />
+              <option name="last" value="1581522415039" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581521495678" />
-              <option name="times" value="176" />
+              <option name="last" value="1581522415430" />
+              <option name="times" value="177" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,8 +973,8 @@
         <entry key="com.intellij.vcs.commit.ChangesViewCommitPanel$DefaultCommitAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581520974760" />
-              <option name="times" value="3" />
+              <option name="last" value="1581522538222" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -991,6 +991,14 @@
             <ActionSummary>
               <option name="last" value="1581367438688" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581522353737" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
