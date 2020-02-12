@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".p4config" type="PLAIN_TEXT" />
-      <mapping pattern="201904221255_ENGREP-40_add_eccn_to_products" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type=".env file" />
+      <mapping pattern=".env.local" type=".env file" />
     </extensionMap>
   </component>
 </application>
