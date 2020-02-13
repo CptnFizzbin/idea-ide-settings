@@ -333,8 +333,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581440005828" />
-              <option name="times" value="8" />
+              <option name="last" value="1581618844613" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +501,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581426980522" />
-              <option name="times" value="6" />
+              <option name="last" value="1581618825254" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +557,16 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581342761646" />
-              <option name="times" value="4" />
+              <option name="last" value="1581618847564" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581618708970" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -591,6 +599,14 @@
             <ActionSummary>
               <option name="last" value="1581514430143" />
               <option name="times" value="22" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581618699327" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
