@@ -701,8 +701,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581350002421" />
-              <option name="times" value="2" />
+              <option name="last" value="1581706817542" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -943,6 +943,14 @@
             <ActionSummary>
               <option name="last" value="1581367553530" />
               <option name="times" value="22" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581706868913" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
