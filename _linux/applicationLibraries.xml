@@ -4870,6 +4870,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.1/testserver" />
       </excluded>
     </library>
+    <library name="net-ldap (v0.16.2, rbenv: 2.4.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/testserver" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/testserver" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.7/lib/ruby/gems/2.4.0/gems/net-ldap-0.16.2/testserver" />
+      </excluded>
+    </library>
     <library name="net-scp (v1.2.1, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
