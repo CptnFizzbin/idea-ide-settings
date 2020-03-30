@@ -39,7 +39,6 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
