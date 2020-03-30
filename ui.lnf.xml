@@ -16,6 +16,8 @@
       <NestingRule child-file-suffix=".map" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".strings.js" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".test.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".less" />
