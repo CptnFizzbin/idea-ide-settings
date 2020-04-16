@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern=".p4config" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
-      <mapping ext="2020-04-13_11" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="2020-04-13_11" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
     </extensionMap>
