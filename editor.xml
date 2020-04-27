@@ -16,6 +16,10 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" INVERT_ON_ORDER="true">
+    <option name="invertOrderInOnClause" value="true" />
+    <option name="useAliasInJoinCompletion" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
