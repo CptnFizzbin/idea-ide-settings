@@ -39,6 +39,9 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="5" />
+    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
