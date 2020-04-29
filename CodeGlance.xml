@@ -1,5 +1,8 @@
 <application>
   <component name="CodeGlance">
-    <option name="width" value="63" />
+    <option name="locked" value="true" />
+    <option name="percentageBasedClick" value="true" />
+    <option name="viewportColor" value="030303" />
+    <option name="width" value="100" />
   </component>
 </application>

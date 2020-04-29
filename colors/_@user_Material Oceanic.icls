@@ -1,23 +1,14 @@
 <scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-01T08:58:14</property>
-    <property name="ide">Ruby</property>
+    <property name="created">2019-02-05T09:07:26</property>
+    <property name="ide">Python</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-01T09:11:47</property>
+    <property name="modified">2020-03-10T08:23:59</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -867,7 +858,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_BAD_TOKEN">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -1477,7 +1467,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="" />
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="264b33" />
@@ -1515,6 +1505,7 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
+    <option name="MAKO.SUBSTITUTION" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="MARKDOWN.AUTO_LINK">
       <value>
         <option name="FOREGROUND" value="ff355b" />
@@ -3389,7 +3380,7 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
