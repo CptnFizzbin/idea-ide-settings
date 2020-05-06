@@ -13,8 +13,19 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="RubyEditorOptions">
+    <option name="prolongComments" value="false" />
+    <option name="startInterpolationOnHash" value="true" />
+  </component>
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" INVERT_ON_ORDER="true">
+    <option name="invertOrderInOnClause" value="true" />
+    <option name="useAliasInJoinCompletion" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
