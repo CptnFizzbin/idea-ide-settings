@@ -1,5 +1,6 @@
 <application>
   <component name="WebBrowsersConfiguration" showHover="false">
+    <browser id="e9ad6ef7-279c-4b01-9557-ef0a7edf845a" name="Edge (Chromium)" family="CHROME" path="C:/Program Files (x86)/Microsoft/Edge Dev/Application/msedge.exe" />
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" />
     <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
     <browser id="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" name="Edge" family="EXPLORER" active="false" />
