@@ -1,5 +1,7 @@
 <application>
   <component name="NormandyConfig">
-    <option name="version" value="v1.8.1" />
+    <option name="primaryThemeColor" value="#a10001" />
+    <option name="transparentBackground" value="true" />
+    <option name="version" value="v1.9.0" />
   </component>
 </application>
