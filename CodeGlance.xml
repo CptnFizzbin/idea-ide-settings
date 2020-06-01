@@ -1,7 +1,7 @@
 <application>
   <component name="CodeGlance">
     <option name="locked" value="true" />
-    <option name="percentageBasedClick" value="true" />
+    <option name="pixelsPerLine" value="2" />
     <option name="viewportColor" value="030303" />
     <option name="width" value="100" />
   </component>

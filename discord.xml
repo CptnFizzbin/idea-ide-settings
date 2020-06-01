@@ -9,6 +9,6 @@
     <option name="fileIconLargeText" value="APPLICATION_VERSION" />
     <option name="fileIconSmall" value="FILE" />
     <option name="fileIconSmallText" value="FILE_LANGUAGE" />
-    <option name="newProjectShow" value="SHOW" />
+    <option name="applicationLastUpdateNotification" value="1.4.2" />
   </component>
 </application>
