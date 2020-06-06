@@ -1,7 +1,16 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <Ruby>
+    <option name="INDENT_PRIVATE_METHODS" value="true" />
+    <option name="INDENT_PROTECTED_METHODS" value="true" />
+    <option name="INDENT_PUBLIC_METHODS" value="true" />
+    <option name="INDENT_WHEN_CASES" value="true" />
+  </Ruby>
   <codeStyleSettings language="ruby">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
   </codeStyleSettings>
