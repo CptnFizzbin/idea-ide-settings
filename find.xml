@@ -13,8 +13,8 @@
     <mask>*.jbuilder</mask>
     <mask>*.gemspec</mask>
     <mask>*.rb</mask>
-    <mask>*.erb</mask>
     <mask>*_spec.rb</mask>
     <mask>*.py</mask>
+    <mask>*.erb</mask>
   </component>
 </application>
