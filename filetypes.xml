@@ -7,6 +7,7 @@
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".p4config" type=".env file" />
     </extensionMap>
