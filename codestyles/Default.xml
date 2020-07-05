@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <JSCodeStyleSettings version="0">
+    <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
+  </JSCodeStyleSettings>
   <Ruby>
     <option name="INDENT_PRIVATE_METHODS" value="true" />
     <option name="INDENT_PROTECTED_METHODS" value="true" />
