@@ -16,5 +16,6 @@
     <mask>*_spec.rb</mask>
     <mask>*.py</mask>
     <mask>*.erb</mask>
+    <mask>*.js</mask>
   </component>
 </application>
