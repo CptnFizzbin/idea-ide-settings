@@ -16,6 +16,9 @@
       <NestingRule child-file-suffix=".map" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".module.css" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".module.scss" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".scss" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".strings.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".test.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".jsx" />
@@ -32,17 +35,17 @@
       <NestingRule child-file-suffix=".js" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".test.ts" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".css" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".scss" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".test.tsx" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="5" />
-    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
