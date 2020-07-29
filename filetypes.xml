@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="webmanifest" type="JSON" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="TTf{1aea7663-b5b6-49ba-aefd-c8e6ac912143}" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern="TTf{1ae97b20-1097-493c-8ebb-160cd51bd217}" type="PLAIN_TEXT" />
