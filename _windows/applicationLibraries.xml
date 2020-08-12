@@ -204,6 +204,22 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/cgi/session" />
       </excluded>
     </library>
+    <library name="childprocess (v3.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/spec" />
+      </excluded>
+    </library>
     <library name="concurrent-ruby (v1.1.5, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -520,6 +536,22 @@
       <SOURCES>
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/i18n-1.6.0/lib" />
       </SOURCES>
+    </library>
+    <library name="inifile (v3.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/test" />
+      </excluded>
     </library>
     <library name="io-console (v0.4.7, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -1349,6 +1381,17 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/samples" />
       </excluded>
     </library>
+    <library name="selenium-webdriver (v4.0.0.alpha6, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/selenium-webdriver-4.0.0.alpha6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/selenium-webdriver-4.0.0.alpha6/lib" />
+      </SOURCES>
+    </library>
     <library name="shell (v0.7, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1528,6 +1571,44 @@
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/webrick/httpauth" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/webrick/httpservlet" />
+      </excluded>
+    </library>
+    <library name="websocket (v1.2.8, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/spec" />
+      </excluded>
+    </library>
+    <library name="win32-sound (v0.6.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/certs" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/certs" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/test" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/certs" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/examples" />
       </excluded>
     </library>
     <library name="write_xlsx (v0.85.6, ruby-2.6.3-p62) [gem]" type="rubylib">
