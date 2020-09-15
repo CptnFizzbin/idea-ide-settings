@@ -36,7 +36,4 @@
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
-  <component name="UISettings">
-    <option name="WIDESCREEN_SUPPORT" value="true" />
-  </component>
 </application>
