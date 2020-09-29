@@ -31,13 +31,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/axlsx-2.0.1/examples" />
       </excluded>
     </library>
-    <library name="benchmark (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="benchmark-memory (v0.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -50,13 +43,6 @@
       </SOURCES>
     </library>
     <library name="bigdecimal (v1.4.1, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="bigdecimal (v2.0.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -128,49 +114,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.0.1/man" />
       </excluded>
     </library>
-    <library name="bundler (v2.1.2, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/ui" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/cli" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/plugin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/source" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/vendor" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/fetcher" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/resolver" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/settings" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/installer" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/templates" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/compact_index_client" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/ui" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/cli" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/plugin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/source" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/vendor" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/fetcher" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/resolver" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/settings" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/installer" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/templates" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/compact_index_client" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/ui" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/cli" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/plugin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/source" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/fetcher" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/resolver" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/settings" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/installer" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/templates" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/compact_index_client" />
-      </excluded>
-    </library>
     <library name="bundler (v2.1.4, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -188,20 +131,6 @@
       <excluded>
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/exe" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/man" />
-      </excluded>
-    </library>
-    <library name="cgi (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/cgi/session" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/cgi/session" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/cgi/session" />
       </excluded>
     </library>
     <library name="childprocess (v3.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -248,20 +177,6 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/csv/core_ext" />
-      </excluded>
-    </library>
-    <library name="csv (v3.1.2, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/csv/core_ext" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/csv/core_ext" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/csv/core_ext" />
       </excluded>
     </library>
     <library name="csv (v3.1.7, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -348,13 +263,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.4/lib" />
       </SOURCES>
     </library>
-    <library name="delegate (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="did_you_mean (v1.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -378,29 +286,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/tmp" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/test" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/benchmark" />
-      </excluded>
-    </library>
-    <library name="did_you_mean (v1.4.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/core_ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/formatters" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/experimental" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/spell_checkers" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/core_ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/formatters" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/experimental" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/spell_checkers" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/core_ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/formatters" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/experimental" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/did_you_mean/spell_checkers" />
       </excluded>
     </library>
     <library name="e2mmap (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -465,13 +350,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
       </excluded>
     </library>
-    <library name="fiddle (v1.0.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="fiddle (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -487,20 +365,6 @@
       <SOURCES />
     </library>
     <library name="forwardable (v1.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="forwardable (v1.3.1, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="getoptlong (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -560,13 +424,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="io-console (v0.5.3, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="irb (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -587,26 +444,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/irb/ext" />
       </excluded>
     </library>
-    <library name="irb (v1.2.1, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/lc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/cmd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/ext" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/lc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/cmd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/ext" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/lc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/cmd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/irb/ext" />
-      </excluded>
-    </library>
     <library name="json (v2.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -621,35 +458,7 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/json/add" />
       </excluded>
     </library>
-    <library name="json (v2.3.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/json/add" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/json/add" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/json/add" />
-      </excluded>
-    </library>
-    <library name="logger (v1.4.2, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="matrix (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="matrix (v0.2.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -702,22 +511,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
-    <library name="minitest (v5.13.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/minitest-5.13.0/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/minitest-5.13.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/minitest-5.13.0/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/minitest-5.13.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/minitest-5.13.0/test" />
-      </excluded>
-    </library>
     <library name="neatjson (v0.9, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -732,36 +525,6 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/neatjson-0.9/test" />
-      </excluded>
-    </library>
-    <library name="net-pop (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="net-smtp (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="net-telnet (v0.2.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/net-telnet-0.2.0/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/net-telnet-0.2.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/net-telnet-0.2.0/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/net-telnet-0.2.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/net-telnet-0.2.0/bin" />
       </excluded>
     </library>
     <library name="net-telnet (v0.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -785,13 +548,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/lib" />
@@ -823,35 +584,7 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/patches" />
       </excluded>
     </library>
-    <library name="observer (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="open3 (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="openssl (v2.1.2, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="openssl (v2.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="ostruct (v0.2.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -872,52 +605,6 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/bin" />
-      </excluded>
-    </library>
-    <library name="power_assert (v1.1.5, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/power_assert-1.1.5/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/power_assert-1.1.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/power_assert-1.1.5/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/power_assert-1.1.5/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/power_assert-1.1.5/bin" />
-      </excluded>
-    </library>
-    <library name="pstore (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="psych (v3.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/json" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/nodes" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/handlers" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/visitors" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/json" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/nodes" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/handlers" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/visitors" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/json" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/nodes" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/handlers" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/psych/visitors" />
       </excluded>
     </library>
     <library name="psych (v3.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -943,20 +630,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/psych/visitors" />
       </excluded>
     </library>
-    <library name="racc (v1.4.16, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/racc/rdoc" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/racc/rdoc" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/racc/rdoc" />
-      </excluded>
-    </library>
     <library name="rake (v12.3.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -977,31 +650,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
-      </excluded>
-    </library>
-    <library name="rake (v13.0.1, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/.github" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/.github" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/rake-13.0.1/.github" />
       </excluded>
     </library>
     <library name="rdoc (v6.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -1042,61 +690,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/rdoc/generator" />
       </excluded>
     </library>
-    <library name="rdoc (v6.2.1, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/rd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/ri" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/i18n" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/stats" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/markup" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/parser" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/context" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/markdown" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/generator" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/rd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/ri" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/i18n" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/stats" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/markup" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/parser" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/context" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/markdown" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/generator" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/rd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/ri" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/i18n" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/stats" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/markup" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/parser" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/context" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/markdown" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rdoc/generator" />
-      </excluded>
-    </library>
-    <library name="reline (v0.1.2, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/reline/unicode" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/reline/key_actor" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/reline/unicode" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/reline/key_actor" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/reline/unicode" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/reline/key_actor" />
-      </excluded>
-    </library>
     <library name="rexml (v3.1.9, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1121,32 +714,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/rexml/parsers" />
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/rexml/formatters" />
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/rexml/validation" />
-      </excluded>
-    </library>
-    <library name="rexml (v3.2.3, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/dtd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/light" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/parsers" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/formatters" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/validation" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/dtd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/light" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/parsers" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/formatters" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/validation" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/dtd" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/light" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/parsers" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/formatters" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rexml/validation" />
       </excluded>
     </library>
     <library name="roo (v1.13.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -1220,26 +787,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/rss/maker" />
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/rss/content" />
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/rss/dublincore" />
-      </excluded>
-    </library>
-    <library name="rss (v0.2.8, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/maker" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/content" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/dublincore" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/maker" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/content" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/dublincore" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/maker" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/content" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/rss/dublincore" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.7.0.beta7, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -1415,13 +962,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/simple_xlsx_reader-1.0.4/test" />
       </excluded>
     </library>
-    <library name="singleton (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="spreadsheet (v1.2.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1482,28 +1022,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/sample" />
       </excluded>
     </library>
-    <library name="test-unit (v3.3.4, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/doc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/test" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/doc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/test" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/sample" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/doc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/test" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/sample" />
-      </excluded>
-    </library>
     <library name="thwait (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1511,28 +1029,7 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="timeout (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="tracer (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="tracer (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="uri (v0.10.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -1554,23 +1051,6 @@
       <excluded>
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/webrick/httpauth" />
         <root url="file://C:/Ruby26-x64/lib/ruby/2.6.0/webrick/httpservlet" />
-      </excluded>
-    </library>
-    <library name="webrick (v1.6.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/webrick/httpauth" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/webrick/httpservlet" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/webrick/httpauth" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/webrick/httpservlet" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/webrick/httpauth" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/2.7.0/webrick/httpservlet" />
       </excluded>
     </library>
     <library name="websocket (v1.2.8, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -1633,22 +1113,6 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/write_xlsx-0.85.6/examples" />
       </excluded>
     </library>
-    <library name="xmlrpc (v0.3.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/xmlrpc-0.3.0/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/xmlrpc-0.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/xmlrpc-0.3.0/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/xmlrpc-0.3.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/ruby_stubs/1765801918/home/swilson2/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/xmlrpc-0.3.0/bin" />
-      </excluded>
-    </library>
     <library name="xmlrpc (v0.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1664,13 +1128,6 @@
       <excluded>
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
       </excluded>
-    </library>
-    <library name="yaml (v0.1.0, Remote-rbenv: ruby-2.7.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="zip-zip (v0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
