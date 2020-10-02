@@ -165,6 +165,22 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/concurrent-ruby-1.1.5/ext" />
       </excluded>
     </library>
+    <library name="creek (v2.5.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/spec" />
+      </excluded>
+    </library>
     <library name="csv (v3.0.9, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -251,6 +267,33 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.3.0.beta34/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.3.0.beta34/test" />
       </excluded>
+    </library>
+    <library name="debase (v2.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/exto" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/exto" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/exto" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.11, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.11/lib" />
+      </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.4, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -548,11 +591,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/bin" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/ext" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/lib" />
@@ -827,6 +872,22 @@
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.8.0.beta24/ext" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v2.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/bin" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/bin" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/bin" />
+      </excluded>
+    </library>
     <library name="ruby-ole (v1.2.12.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -926,6 +987,22 @@
       <excluded>
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/test" />
         <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/samples" />
+      </excluded>
+    </library>
+    <library name="rubyzip (v2.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/lib" />
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/samples" />
       </excluded>
     </library>
     <library name="selenium-webdriver (v4.0.0.alpha6, ruby-2.6.3-p62) [gem]" type="rubylib">
