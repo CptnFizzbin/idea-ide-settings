@@ -16,12 +16,11 @@
       <NestingRule child-file-suffix=".map" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js.map" parent-file-suffix=".js" />
-      <NestingRule child-file-suffix=".test.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".less" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".less" />
-      <NestingRule child-file-suffix=".mustache" parent-file-suffix=".py" />
+      <NestingRule child-file-suffix=".ms" parent-file-suffix=".py" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".sass" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".sass" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".scss" />
@@ -30,16 +29,11 @@
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".ts" />
-      <NestingRule child-file-suffix=".test.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
     </nesting-rules>
-  </component>
-  <component name="UISettings">
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
