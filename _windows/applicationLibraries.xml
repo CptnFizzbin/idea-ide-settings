@@ -1,17 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/chai" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/mocha" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/sinon-chai" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="axlsx (v2.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
