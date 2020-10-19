@@ -4,22 +4,9 @@
     <property name="created">2018-04-04T15:12:24</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-04T15:15:55</property>
+    <property name="modified">2020-01-20T11:07:56</property>
     <property name="originalScheme">_@user_Material Monokai Pro</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -536,12 +523,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="86dde9" />
+        <option name="FOREGROUND" value="9f9f9f" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="86dde9" />
+        <option name="FOREGROUND" value="9f9f9f" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -556,12 +543,12 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="86dde9" />
+        <option name="FOREGROUND" value="9f9f9f" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="f500a5" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -590,7 +577,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="86dde9" />
+        <option name="FOREGROUND" value="9f9f9f" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -600,7 +587,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="aedc70" />
+        <option name="FOREGROUND" value="94dc" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -620,12 +607,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
+        <option name="FOREGROUND" value="fcb500" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="aedc70" />
+        <option name="FOREGROUND" value="94dc" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -648,7 +635,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="c1c0c0" />
+        <option name="FOREGROUND" value="fcd600" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -674,7 +661,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="86dde9" />
+        <option name="FOREGROUND" value="9f9f9f" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -684,7 +671,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="86dde9" />
+        <option name="FOREGROUND" value="9f9f9f" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -694,18 +681,18 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="86dde9" />
+        <option name="FOREGROUND" value="9f9f9f" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
+        <option name="FOREGROUND" value="fc6f00" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="aedc70" />
+        <option name="FOREGROUND" value="d7dc" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -720,6 +707,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
+        <option name="FOREGROUND" value="ad68" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3012,15 +3000,11 @@
     <option name="RUBY_BAD_CHARACTER" baseAttributes="BAD_CHARACTER" />
     <option name="RUBY_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="RUBY_CVAR" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="RUBY_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
     <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="RUBY_INTERPOLATED_STRING" baseAttributes="DEFAULT_STRING" />
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="RUBY_IVAR" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
     <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -3030,7 +3014,6 @@
       </value>
     </option>
     <option name="RUBY_NUMBER" baseAttributes="DEFAULT_NUMBER" />
-    <option name="RUBY_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
     <option name="RUBY_REGEXP">
       <value>

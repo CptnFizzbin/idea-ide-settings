@@ -4,8 +4,13 @@
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="READ_ONLY_LOCK" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
       <entry key="External">
@@ -13,6 +18,12 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
+    </option>
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="CONTEXT_RANGE" value="8" />
+        <option name="MERGE_AUTO_APPLY_NON_CONFLICTED_CHANGES" value="true" />
+      </SharedSettings>
     </option>
   </component>
 </application>

@@ -1,6 +1,14 @@
 <application>
   <component name="ApplicationNotificationSettings">
-    <option name="lastUpdateNotification" value="1.0.1" />
+    <option name="lastUpdateNotification" value="1.3.0" />
   </component>
-  <component name="DiscordIntegrationApplicationSettings" forceBigIDEIcon="true" />
+  <component name="DiscordApplicationSettings">
+    <option name="fileDetails" value="PROJECT_NAME" />
+    <option name="fileState" value="FILE_NAME" />
+    <option name="fileIconLarge" value="APPLICATION" />
+    <option name="fileIconLargeText" value="APPLICATION_VERSION" />
+    <option name="fileIconSmall" value="FILE" />
+    <option name="fileIconSmallText" value="FILE_LANGUAGE" />
+    <option name="applicationLastUpdateNotification" value="1.4.2" />
+  </component>
 </application>

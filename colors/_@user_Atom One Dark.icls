@@ -4,7 +4,7 @@
     <property name="created">2019-04-08T08:14:06</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-07-12T07:54:28</property>
+    <property name="modified">2019-07-04T11:39:51</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -565,7 +565,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="d1b119" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -619,7 +619,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c3d3de" />
+        <option name="FOREGROUND" value="ded6dd" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -1397,7 +1397,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="4cc3c6" />
+        <option name="FOREGROUND" value="65c1c6" />
       </value>
     </option>
     <option name="JS.MODULE_KEYWORD">
@@ -3109,7 +3109,6 @@
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
-    <option name="RUBY_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="RUBY_CONSTANT">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
