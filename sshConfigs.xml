@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="localhost" id="b1ce6e2f-1b0a-4595-9aac-9e5cc95436b8" port="3022" customName="swilson2@CentOS VM" nameFormat="CUSTOM" username="swilson2" />
+      <sshConfig authType="PASSWORD" host="bp2-rptuat-l001.otxlab.net" id="5fab8f4b-7298-439d-85c1-079dffc480c9" port="22" nameFormat="DESCRIPTIVE" username="portaladmin" />
     </configs>
   </component>
 </application>
