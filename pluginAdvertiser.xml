@@ -29,6 +29,33 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.as">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ats">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.bash">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bigtiff">
           <value>
             <plugin>
@@ -47,6 +74,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -56,11 +92,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cjs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cql">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.css">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.css" />
+              <option name="myPluginName" value="CSS" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -173,6 +227,32 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.env">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.adelf.idea.dotenv" />
+              <option name="myPluginName" value=".env files support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.es">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.es6">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fxml">
           <value>
             <plugin>
@@ -200,12 +280,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.handlebars">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.dmarcotte.handlebars" />
+              <option name="myPluginName" value="Handlebars/Mustache" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.har">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hbs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.dmarcotte.handlebars" />
+              <option name="myPluginName" value="Handlebars/Mustache" />
             </plugin>
           </value>
         </entry>
@@ -290,11 +386,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ini">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ipr">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ipynb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -335,6 +449,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jinja2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jnlp">
           <value>
             <plugin>
@@ -371,6 +494,69 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.js">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.js.flow">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.js.map">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScriptDebugger" />
+              <option name="myPluginName" value="JavaScript Debugger" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.js2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jsb2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jsb3">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jshintrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.json">
           <value>
             <plugin>
@@ -389,11 +575,64 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jsx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.ideolog" />
+              <option name="myPluginName" value="Ideolog" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mako">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.markdown">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.md">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mdb">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mjs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -404,6 +643,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mustache">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.dmarcotte.handlebars" />
+              <option name="myPluginName" value="Handlebars/Mustache" />
             </plugin>
           </value>
         </entry>
@@ -532,6 +779,78 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pxd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pxi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.py">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.qrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -568,6 +887,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sht">
           <value>
             <plugin>
@@ -591,6 +919,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.snap">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -666,11 +1003,36 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ts">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tsv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tsx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -680,6 +1042,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ui">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -716,6 +1087,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.web2py">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -828,6 +1208,67 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.zsh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".babelrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".env">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.adelf.idea.dotenv" />
+              <option name="myPluginName" value=".env files support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".env.*">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.adelf.idea.dotenv" />
+              <option name="myPluginName" value=".env files support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".eslintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".eslintrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".flowconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".gitmodules">
           <value>
             <plugin>
@@ -837,11 +1278,161 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".jshintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".node-version">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".npmignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".npmrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".nvmrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".stylelintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".stylelintrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".yarnrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bowerrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="buildout.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="jest.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="jshint.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="tsconfig.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="yarn.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -857,6 +1448,16 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="BatchConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
+                    </value>
+                  </entry>
+                  <entry key="ChromiumRemoteDebugType">
+                    <value>
+                      <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -867,14 +1468,104 @@
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
                     </value>
                   </entry>
+                  <entry key="DjangoTestsConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="FirefoxRemoteDebugType">
+                    <value>
+                      <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="JavaScriptTestRunnerJest">
+                    <value>
+                      <FeaturePluginData displayName="Jest" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="JavaScriptTestRunnerProtractor">
+                    <value>
+                      <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="JavascriptDebugType">
+                    <value>
+                      <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="NodeWebKit">
+                    <value>
+                      <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="PyRemoteDebugConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Python Debug Server" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="Python.DjangoServer">
+                    <value>
+                      <FeaturePluginData displayName="Django Server" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="Python.FlaskServer">
+                    <value>
+                      <FeaturePluginData displayName="Flask server" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="Python.PyramidServer">
+                    <value>
+                      <FeaturePluginData displayName="Pyramid server" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="PythonConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="ReactNative">
+                    <value>
+                      <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="ShConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
                     </value>
                   </entry>
+                  <entry key="Tox">
+                    <value>
+                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="js.build_tools.grunt">
+                    <value>
+                      <FeaturePluginData displayName="Grunt.js" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="js.build_tools.gulp">
+                    <value>
+                      <FeaturePluginData displayName="Gulp.js" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="js.build_tools.npm">
+                    <value>
+                      <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="tests">
+                    <value>
+                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                 </map>
@@ -884,7 +1575,22 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="buildout-python">
+                    <value>
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="django">
+                    <value>
+                      <FeaturePluginData displayName="Django" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
       </map>
