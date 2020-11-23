@@ -39,6 +39,9 @@
   <PostgresCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </PostgresCodeStyleSettings>
+  <Ruby>
+    <option name="CHAIN_CALLS_ALIGNMENT" value="0" />
+  </Ruby>
   <SQLiteCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </SQLiteCodeStyleSettings>
@@ -96,10 +99,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="SPACE_WITHIN_BRACES" value="true" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
   </codeStyleSettings>
