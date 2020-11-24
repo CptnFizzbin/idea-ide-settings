@@ -1,5 +1,6 @@
 <templateSet group="Rails">
   <template name="s" value="session[:$USER$]$END$" description="session" toReformat="true" toShortenFQNames="true">
     <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
