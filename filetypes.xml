@@ -11,6 +11,7 @@
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".p4keep" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping ext="p4keep" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
