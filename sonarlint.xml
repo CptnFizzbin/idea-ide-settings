@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.otxlab.net/" />
+          <token>dfccdf9edfccdf9fdfcfdfcfdfcbdfcfdf99dfcbdf9bdf9cdf93dfccdfccdf9cdfc9dfcbdf93df9edf9edfcbdfc8dfccdf9edfcedf9bdfc8df9bdf9ddf93df9adf93dfc8dfcfdf9adf9ddfc8dfcbdf9a</token>
+          <option name="name" value="OT SonarQube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
