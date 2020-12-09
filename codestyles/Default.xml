@@ -90,6 +90,11 @@
   <SybaseCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </SybaseCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="JSDOC_INCLUDE_TYPES" value="true" />
+    <option name="FILE_NAME_STYLE" value="LISP_CASE" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -175,6 +180,13 @@
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
