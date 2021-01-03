@@ -1,4 +1,7 @@
 <application>
+  <component name="DefaultFont">
+    <option name="USE_LIGATURES" value="true" />
+  </component>
   <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false">
     <option name="useAliasInJoinCompletion" value="false" />
   </component>
