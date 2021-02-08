@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="ast (v2.4.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ast-2.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ast-2.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="axlsx (v2.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17,6 +28,38 @@
       <excluded>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/axlsx-2.0.1/test" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/axlsx-2.0.1/examples" />
+      </excluded>
+    </library>
+    <library name="backport (v1.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/backport-1.1.2/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/backport-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/backport-1.1.2/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/backport-1.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/backport-1.1.2/bin" />
+      </excluded>
+    </library>
+    <library name="benchmark (v0.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-0.1.1/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-0.1.1/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-0.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-0.1.1/bin" />
       </excluded>
     </library>
     <library name="benchmark-memory (v0.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -507,6 +550,22 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/irb/ext" />
       </excluded>
     </library>
+    <library name="jaro_winkler (v1.5.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/ext" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/ext" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/ext" />
+      </excluded>
+    </library>
     <library name="json (v2.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -519,6 +578,47 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/json/add" />
+      </excluded>
+    </library>
+    <library name="kramdown (v2.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/man" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/data" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/man" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/data" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/man" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/data" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-2.3.0/test" />
+      </excluded>
+    </library>
+    <library name="kramdown-parser-gfm (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-parser-gfm-1.1.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-parser-gfm-1.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-parser-gfm-1.1.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-parser-gfm-1.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-parser-gfm-1.1.0/test" />
       </excluded>
     </library>
     <library name="matrix (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -704,6 +804,33 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="parallel (v1.20.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/parallel-1.20.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/parallel-1.20.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v3.0.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/parser-3.0.0.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/parser-3.0.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/parser-3.0.0.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/parser-3.0.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/parser-3.0.0.0/bin" />
+      </excluded>
+    </library>
     <library name="pg (v1.2.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -760,6 +887,22 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/nodes" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/handlers" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/visitors" />
+      </excluded>
+    </library>
+    <library name="rainbow (v3.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/spec" />
       </excluded>
     </library>
     <library name="rake (v12.3.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -820,6 +963,41 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rdoc/context" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rdoc/markdown" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rdoc/generator" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v2.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/spec" />
+      </excluded>
+    </library>
+    <library name="reverse_markdown (v2.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/reverse_markdown-2.0.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/reverse_markdown-2.0.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/reverse_markdown-2.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/reverse_markdown-2.0.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/reverse_markdown-2.0.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/reverse_markdown-2.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/reverse_markdown-2.0.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/reverse_markdown-2.0.0/spec" />
       </excluded>
     </library>
     <library name="rexml (v3.1.9, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -920,6 +1098,39 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rss/content" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rss/dublincore" />
       </excluded>
+    </library>
+    <library name="rubocop (v1.9.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/exe" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/assets" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/exe" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/assets" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/exe" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/assets" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-1.9.1/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-ast (v1.4.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-ast-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubocop-ast-1.4.1/lib" />
+      </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.7.0.beta7, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -1153,6 +1364,25 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/simple_xlsx_reader-1.0.4/test" />
       </excluded>
     </library>
+    <library name="solargraph (v0.40.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/solargraph-0.40.3/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/solargraph-0.40.3/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/solargraph-0.40.3/yardoc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/solargraph-0.40.3/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/solargraph-0.40.3/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/solargraph-0.40.3/yardoc" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/solargraph-0.40.3/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/solargraph-0.40.3/yardoc" />
+      </excluded>
+    </library>
     <library name="sorbet (v0.4.4250, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1231,12 +1461,44 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/sample" />
       </excluded>
     </library>
+    <library name="thor (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/thor-1.1.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/thor-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/thor-1.1.0/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/thor-1.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/thor-1.1.0/bin" />
+      </excluded>
+    </library>
     <library name="thwait (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="tilt (v2.0.10, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+      </excluded>
     </library>
     <library name="tiny_tds (v2.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -1278,6 +1540,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="unicode-display_width (v2.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/unicode-display_width-2.0.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/unicode-display_width-2.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/unicode-display_width-2.0.0/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/unicode-display_width-2.0.0/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/unicode-display_width-2.0.0/data" />
+      </excluded>
     </library>
     <library name="webrick (v1.4.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -1370,6 +1648,40 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
+      </excluded>
+    </library>
+    <library name="yard (v0.9.26, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/po" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/docs" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/tasks" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/.github" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/templates" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/po" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/lib" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/docs" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/tasks" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/.github" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/templates" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/po" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/bin" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/docs" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/tasks" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/.github" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/templates" />
+        <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/yard-0.9.26/benchmarks" />
       </excluded>
     </library>
     <library name="zip-zip (v0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
