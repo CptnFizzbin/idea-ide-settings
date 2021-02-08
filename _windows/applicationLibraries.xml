@@ -9,7 +9,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/axlsx-2.0.1/test" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/axlsx-2.0.1/examples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/axlsx-2.0.1/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/axlsx-2.0.1/test" />
@@ -27,7 +26,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-memory-0.1.2/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/benchmark-memory-0.1.2/lib" />
       </SOURCES>
@@ -37,7 +35,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="bundler (v1.17.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -58,7 +55,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/bundler/templates" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/bundler/compact_index_client" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/bundler/ui" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/bundler/cli" />
@@ -96,7 +92,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.0.1/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.0.1/man" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.0.1/exe" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.0.1/lib" />
@@ -116,7 +111,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/man" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/exe" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/lib" />
@@ -135,7 +129,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/spec" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/childprocess-3.0.0/spec" />
@@ -152,7 +145,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/concurrent-ruby-1.1.5/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/concurrent-ruby-1.1.5/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/concurrent-ruby-1.1.5/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/concurrent-ruby-1.1.5/lib" />
@@ -169,7 +161,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/spec" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/creek-2.5.2/spec" />
@@ -185,7 +176,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/csv/core_ext" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/csv/core_ext" />
       </SOURCES>
@@ -201,7 +191,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/csv-3.1.7/doc" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/csv-3.1.7/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/csv-3.1.7/doc" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/csv-3.1.7/lib" />
@@ -219,7 +208,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.2.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.2.2/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.2.2/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.2.2/lib" />
@@ -239,7 +227,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.2.3.beta5/lib" />
@@ -259,7 +246,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.3.0.beta34/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.3.0.beta34/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.3.0.beta34/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-0.3.0.beta34/lib" />
@@ -278,7 +264,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/exto" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.0/exto" />
@@ -295,7 +280,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.1/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.1/exto" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.1/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.1/exto" />
@@ -312,7 +296,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.2/exto" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-2.3.2/exto" />
@@ -328,7 +311,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.11/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.11/lib" />
       </SOURCES>
@@ -340,7 +322,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.4/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.4/lib" />
       </SOURCES>
@@ -356,7 +337,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/test" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/benchmark" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/doc" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib" />
@@ -376,7 +356,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="faker (v1.9.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -386,7 +365,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/faker-1.9.3/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/faker-1.9.3/lib" />
       </SOURCES>
@@ -403,7 +381,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/benchmarks" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/libxlsxwriter" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/fast_excel-0.2.6/lib" />
@@ -428,7 +405,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ffi-1.11.1-x64-mingw32/samples" />
@@ -442,7 +418,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="fileutils (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -450,7 +425,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="forwardable (v1.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -458,7 +432,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="htmlentities (v4.3.4, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -470,7 +443,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/htmlentities-4.3.4/perf" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/htmlentities-4.3.4/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/htmlentities-4.3.4/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/htmlentities-4.3.4/perf" />
@@ -488,7 +460,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/i18n-1.6.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/i18n-1.6.0/lib" />
       </SOURCES>
@@ -501,7 +472,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/inifile-3.0.0/test" />
@@ -515,7 +485,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="irb (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -527,7 +496,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/irb/cmd" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/irb/ext" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/irb/lc" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/irb/cmd" />
@@ -546,7 +514,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/json/add" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/json/add" />
       </SOURCES>
@@ -559,7 +526,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="memory_profiler (v0.9.13, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -569,7 +535,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/memory_profiler-0.9.13/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/memory_profiler-0.9.13/lib" />
       </SOURCES>
@@ -583,7 +548,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/test" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/test" />
@@ -602,7 +566,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
@@ -621,7 +584,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/mysql2-0.5.3-x64-mingw32/vendor" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/mysql2-0.5.3-x64-mingw32/support" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/mysql2-0.5.3-x64-mingw32/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/mysql2-0.5.3-x64-mingw32/lib" />
@@ -641,7 +603,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/neatjson-0.9/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/neatjson-0.9/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/neatjson-0.9/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/neatjson-0.9/test" />
@@ -658,7 +619,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-ssh-6.1.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-ssh-6.1.0/support" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-ssh-6.1.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-ssh-6.1.0/support" />
@@ -674,7 +634,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-ssh-gateway-2.0.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-ssh-gateway-2.0.0/lib" />
       </SOURCES>
@@ -687,7 +646,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/lib" />
@@ -701,12 +659,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.10" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.10-x64-mingw32/lib" />
@@ -726,7 +685,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/patches" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3-x64-mingw32/ext" />
@@ -744,7 +702,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="pg (v1.2.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -756,7 +713,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/pg-1.2.3-x64-mingw32/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/pg-1.2.3-x64-mingw32/spec" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/pg-1.2.3-x64-mingw32/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/pg-1.2.3-x64-mingw32/lib" />
@@ -775,7 +731,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/lib" />
@@ -794,7 +749,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/handlers" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/visitors" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/json" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/nodes" />
@@ -818,7 +772,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
@@ -846,7 +799,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rdoc/markdown" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rdoc/generator" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rdoc/rd" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rdoc/ri" />
@@ -881,7 +833,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rexml/formatters" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rexml/validation" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rexml/dtd" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rexml/light" />
@@ -909,7 +860,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-1.13.2/website" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-1.13.2/examples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-1.13.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-1.13.2/spec" />
@@ -937,7 +887,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/.github" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/examples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/roo-2.8.2/spec" />
@@ -961,7 +910,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rss/content" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rss/dublincore" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rss/maker" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rss/content" />
@@ -982,7 +930,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.7.0.beta7/ext" />
@@ -1002,7 +949,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.8.0.beta24/ext" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.8.0.beta24/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.8.0.beta24/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-0.8.0.beta24/ext" />
@@ -1021,7 +967,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.0/lib" />
@@ -1038,7 +983,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/lib" />
@@ -1056,7 +1000,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-ole-1.2.12.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-ole-1.2.12.2/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-ole-1.2.12.2/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-ole-1.2.12.2/lib" />
@@ -1074,7 +1017,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-progressbar-1.10.1/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/ruby-progressbar-1.10.1/lib" />
       </SOURCES>
@@ -1089,7 +1031,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.1.0/spec" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.1.0/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.1.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.1.0/rdoc" />
@@ -1113,7 +1054,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/spec" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyXL-3.4.3/tmp" />
@@ -1136,7 +1076,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.0.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.0.0/samples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.0.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.0.0/samples" />
@@ -1154,7 +1093,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/test" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/samples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-1.2.3/test" />
@@ -1173,7 +1111,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/samples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/rubyzip-2.3.0/samples" />
@@ -1189,7 +1126,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/selenium-webdriver-4.0.0.alpha6/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/selenium-webdriver-4.0.0.alpha6/lib" />
       </SOURCES>
@@ -1199,7 +1135,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="simple_xlsx_reader (v1.0.4, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -1210,7 +1145,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/simple_xlsx_reader-1.0.4/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/simple_xlsx_reader-1.0.4/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/simple_xlsx_reader-1.0.4/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/simple_xlsx_reader-1.0.4/test" />
@@ -1224,7 +1158,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="sorbet-runtime (v0.5.6133, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -1234,7 +1167,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sorbet-runtime-0.5.6133/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sorbet-runtime-0.5.6133/lib" />
       </SOURCES>
@@ -1248,7 +1180,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.3/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.3/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.3/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.3/lib" />
@@ -1268,7 +1199,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/test" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/lib" />
@@ -1289,7 +1219,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/test" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/sample" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/doc" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/lib" />
@@ -1307,7 +1236,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="tiny_tds (v2.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -1324,7 +1252,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tiny_tds-2.1.3-x64-mingw32/tasks" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tiny_tds-2.1.3-x64-mingw32/patches" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tiny_tds-2.1.3-x64-mingw32/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/tiny_tds-2.1.3-x64-mingw32/exe" />
@@ -1350,7 +1277,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES />
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="webrick (v1.4.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -1361,7 +1287,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/webrick/httpauth" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/webrick/httpservlet" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/webrick/httpauth" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/webrick/httpservlet" />
@@ -1379,7 +1304,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/spec" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/websocket-1.2.8/spec" />
@@ -1398,7 +1322,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/certs" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/examples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/lib" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/win32-sound-0.6.2/test" />
@@ -1421,7 +1344,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/write_xlsx-0.85.6/test" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/write_xlsx-0.85.6/examples" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/write_xlsx-0.85.6/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/write_xlsx-0.85.6/lib" />
@@ -1442,7 +1364,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/lib" />
@@ -1458,7 +1379,6 @@
       <CLASSES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/zip-zip-0.3/lib" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/zip-zip-0.3/lib" />
       </SOURCES>
