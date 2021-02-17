@@ -507,6 +507,16 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="groovy-2.5.14-javadoc">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="groovy-2.5.14-javadoc (2)">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="htmlentities (v4.3.4, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
