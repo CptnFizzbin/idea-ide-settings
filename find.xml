@@ -18,5 +18,6 @@
     <mask>*.html</mask>
     <mask>*.js, *.html</mask>
     <mask>*.js</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
