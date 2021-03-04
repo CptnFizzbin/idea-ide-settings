@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern=".env.example" type=".env file" />
+      <mapping pattern=".p4config" type=".env file" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
@@ -9,7 +11,6 @@
       <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
-      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".p4keep" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping ext="p4keep" type="PLAIN_TEXT" />
@@ -23,8 +24,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ms" type="Handlebars/Mustache" />
-      <mapping pattern=".env.example" type=".env file" />
-      <mapping pattern=".p4config" type=".env file" />
     </extensionMap>
   </component>
 </application>
