@@ -7,19 +7,14 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="Application">
+                  <entry key="CapistranoRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Capistrano" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="BatchConfigurationType">
+                  <entry key="CommandRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
-                    </value>
-                  </entry>
-                  <entry key="ChromiumRemoteDebugType">
-                    <value>
-                      <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                      <FeaturePluginData displayName="Gem Command" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -27,44 +22,19 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="CucumberRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="FirefoxRemoteDebugType">
+                  <entry key="IrbRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="GradleRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="GrailsRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Grails" pluginName="Grails" pluginId="org.intellij.grails" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="GroovyScriptRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="JUnit">
-                    <value>
-                      <FeaturePluginData displayName="JUnit" pluginName="JUnit" pluginId="JUnit" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="JarApplication">
-                    <value>
-                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="Java Scratch">
-                    <value>
-                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Ruby Console" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerJest">
@@ -77,34 +47,34 @@
                       <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="JavascriptDebugType">
+                  <entry key="RSpecRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                      <FeaturePluginData displayName="RSpec" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="MavenRunConfiguration">
+                  <entry key="RackRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" bundled="true" />
+                      <FeaturePluginData displayName="Rack" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="NodeWebKit">
+                  <entry key="RailsRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                      <FeaturePluginData displayName="Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="PowerShellRunType">
+                  <entry key="RakeRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="PowerShell" pluginName="PowerShell" pluginId="com.intellij.plugin.adernov.powershell" />
+                      <FeaturePluginData displayName="Rake" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="ReactNative">
+                  <entry key="RubyRemoteDebugConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                      <FeaturePluginData displayName="Ruby remote debug" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="Remote">
+                  <entry key="RubyRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Ruby" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -112,14 +82,9 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="SpaceRunConfiguration">
+                  <entry key="SporkRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="SpringBootApplicationConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Spring Boot" pluginName="Spring Boot" pluginId="com.intellij.spring.boot" bundled="true" />
+                      <FeaturePluginData displayName="Spork DRb" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
@@ -127,9 +92,24 @@
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="TestUnitRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Test::Unit/Shoulda/Minitest" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="ZeusRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Zeus Server" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
@@ -157,109 +137,14 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="Spring">
+                  <entry key="RailsFacetType">
                     <value>
-                      <FeaturePluginData displayName="Spring" pluginName="Spring" pluginId="com.intellij.spring" bundled="true" />
+                      <FeaturePluginData displayName="Ruby on Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="WebServicesClient">
+                  <entry key="gem">
                     <value>
-                      <FeaturePluginData displayName="WebServices Client" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="ejb">
-                    <value>
-                      <FeaturePluginData displayName="EJB" pluginName="Java EE: Enterprise Java Beans (EJB)" pluginId="com.intellij.javaee.ejb" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="hibernate">
-                    <value>
-                      <FeaturePluginData displayName="Hibernate" pluginName="Hibernate" pluginId="com.intellij.hibernate" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="javaeeApplication">
-                    <value>
-                      <FeaturePluginData displayName="JavaEE Application" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="jpa">
-                    <value>
-                      <FeaturePluginData displayName="JPA" pluginName="Java EE: Persistence (JPA)" pluginId="com.intellij.javaee.jpa" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="web">
-                    <value>
-                      <FeaturePluginData displayName="Web" pluginName="Java EE: Web/Servlets" pluginId="com.intellij.javaee.web" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="webservices">
-                    <value>
-                      <FeaturePluginData displayName="WebServices" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </FeaturePluginsList>
-          </value>
-        </entry>
-        <entry key="com.intellij.packaging.artifacts.ArtifactType">
-          <value>
-            <FeaturePluginsList>
-              <option name="featureMap">
-                <map>
-                  <entry key="ear">
-                    <value>
-                      <FeaturePluginData displayName="Java EE Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="ejb-jar">
-                    <value>
-                      <FeaturePluginData displayName="EJB Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="exploded-ear">
-                    <value>
-                      <FeaturePluginData displayName="Java EE Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="exploded-ejb">
-                    <value>
-                      <FeaturePluginData displayName="EJB Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="exploded-war">
-                    <value>
-                      <FeaturePluginData displayName="Web Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="jar">
-                    <value>
-                      <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="javafx">
-                    <value>
-                      <FeaturePluginData displayName="JavaFx application" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="javafx-preloader">
-                    <value>
-                      <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="jpackage">
-                    <value>
-                      <FeaturePluginData displayName="Platform specific package" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="plain">
-                    <value>
-                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="war">
-                    <value>
-                      <FeaturePluginData displayName="Web Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                      <FeaturePluginData displayName="Gem" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                 </map>
