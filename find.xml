@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.xml</mask>
+    <mask>*.ru</mask>
+    <mask>*.rbw</mask>
+    <mask>*.thor</mask>
+    <mask>*.rake</mask>
+    <mask>*.jbuilder</mask>
+    <mask>*.gemspec</mask>
+    <mask>*.rb</mask>
+    <mask>*_spec.rb</mask>
+    <mask>*.erb</mask>
+    <mask>*.py</mask>
+    <mask>*.html</mask>
+    <mask>*.js, *.html</mask>
+    <mask>*.js</mask>
+    <mask>*.groovy</mask>
+  </component>
+</application>
