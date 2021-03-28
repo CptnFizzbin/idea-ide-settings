@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="dockerfile" type="Dockerfile" />
+      <mapping pattern="start" type="PLAIN_TEXT" />
+      <mapping pattern=".yardoc" type="PLAIN_TEXT" />
+      <mapping pattern="script/start" type="PLAIN_TEXT" />
+      <mapping pattern="server/dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="server/docker-compose" type="PLAIN_TEXT" />
+      <mapping ext="base" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+    </extensionMap>
+  </component>
+</application>

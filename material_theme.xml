@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="63a9f1" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="2b7e1395:168c00840d3:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>
