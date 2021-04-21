@@ -19,6 +19,5 @@
     <mask>*.js, *.html</mask>
     <mask>*.js</mask>
     <mask>*.groovy</mask>
-    <mask>*.java</mask>
   </component>
 </application>
