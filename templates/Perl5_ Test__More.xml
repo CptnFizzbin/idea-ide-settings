@@ -1,0 +1,7 @@
+<templateSet group="Perl5: Test::More">
+  <template name="li" value="like( $ACT$, $EXP$, '$MESSAGE$' );&#10;$END$" description="like" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="ACT" expression="" defaultValue="&quot;$actual&quot;" alwaysStopAt="true" />
+    <variable name="EXP" expression="" defaultValue="&quot;$expected&quot;" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="&quot;message&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>

@@ -1,0 +1,14 @@
+net.vektah.codeglance
+com.jetbrains.lang.ejs
+com.perl5
+com.chrisrm.idea.MaterialThemeUI
+String Manipulation
+com.vladsch.idea.multimarkdown
+com.jetbrains.plugins.ini4idea
+org.sylfra.idea.plugins.linessorter
+NodeJS
+ru.adelf.idea.dotenv
+net.seesharpsoft.intellij.plugins.csv
+mobi.hsz.idea.gitignore
+some.awesome
+Key Promoter X

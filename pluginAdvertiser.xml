@@ -7,21 +7,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="#PerlConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Perl" pluginName="Perl" pluginId="com.perl5" />
-                    </value>
-                  </entry>
-                  <entry key="#PerlRemoteDebuggingConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Perl Remote Debugging" pluginName="Perl" pluginId="com.perl5" />
-                    </value>
-                  </entry>
-                  <entry key="BatchConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
-                    </value>
-                  </entry>
                   <entry key="CapistranoRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Capistrano" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
@@ -57,11 +42,6 @@
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="HttpClient.HttpRequestRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="IrbRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Ruby Console" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
@@ -70,6 +50,11 @@
                   <entry key="JavaScriptTestRunnerJest">
                     <value>
                       <FeaturePluginData displayName="Jest" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="JavaScriptTestRunnerKarma">
+                    <value>
+                      <FeaturePluginData displayName="Karma" pluginName="Karma" pluginId="Karma" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerProtractor">
@@ -84,7 +69,7 @@
                   </entry>
                   <entry key="NodeJSConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" />
+                      <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
                   <entry key="NodeWebKit">
@@ -94,12 +79,7 @@
                   </entry>
                   <entry key="NodeunitConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
-                    </value>
-                  </entry>
-                  <entry key="PerlTestRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Perl5 Test" pluginName="Perl" pluginId="com.perl5" />
+                      <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
                   <entry key="RSpecRunConfigurationType">
@@ -162,6 +142,11 @@
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="XSLT">
+                    <value>
+                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="ZeusRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Zeus Server" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
@@ -189,7 +174,7 @@
                   </entry>
                   <entry key="mocha-javascript-test-runner">
                     <value>
-                      <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" />
+                      <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
                 </map>
