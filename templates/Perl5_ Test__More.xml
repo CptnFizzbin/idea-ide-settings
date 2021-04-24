@@ -3,5 +3,6 @@
     <variable name="ACT" expression="" defaultValue="&quot;$actual&quot;" alwaysStopAt="true" />
     <variable name="EXP" expression="" defaultValue="&quot;$expected&quot;" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="&quot;message&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
