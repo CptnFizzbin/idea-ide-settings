@@ -45,6 +45,8 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
