@@ -916,6 +916,17 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/erubi-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="fastimage (v2.2.3, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/fastimage-2.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/fastimage-2.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.15.0, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
