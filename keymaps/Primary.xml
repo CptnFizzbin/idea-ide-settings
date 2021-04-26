@@ -2,20 +2,27 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl s" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CopyElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl c" />
   </action>
   <action id="DecrementWindowHeight" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl c" />
@@ -30,6 +37,7 @@
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl s" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceParameter" />
   <action id="Move">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
   </action>
@@ -45,6 +53,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="ParameterInfo" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
@@ -57,4 +68,8 @@
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl x" />
   </action>
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.Package" />
 </keymap>
