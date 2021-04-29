@@ -12,14 +12,10 @@
       <NestingRule child-file-suffix=".html" parent-file-suffix=".haml" />
       <NestingRule child-file-suffix="-compiled.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix="-compiled.js.map" parent-file-suffix=".js" />
-      <NestingRule child-file-suffix=".css" parent-file-suffix=".js" />
-      <NestingRule child-file-suffix=".html" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".map" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js.map" parent-file-suffix=".js" />
-      <NestingRule child-file-suffix=".scss" parent-file-suffix=".js" />
-      <NestingRule child-file-suffix=".test.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".less" />
@@ -33,7 +29,6 @@
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".ts" />
-      <NestingRule child-file-suffix=".test.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
@@ -41,10 +36,12 @@
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".module.css" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".module.scss" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".test.ts" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".test.tsx" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="showTreeIndentGuides" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
