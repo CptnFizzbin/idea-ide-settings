@@ -1,0 +1,36 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="mappings">
+      <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="4622" />
+          <option name="host" value="https://gitlab.otxlab.net" />
+          <option name="projectName" value="PSMQ" />
+          <option name="projectPath" value="Engineering-Tools/psmq" />
+          <option name="remote" value="git@gitlab.otxlab.net:Engineering-Tools/psmq.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="4622" />
+          <option name="host" value="https://gitlab.otxlab.net" />
+          <option name="projectName" value="PSMQ" />
+          <option name="projectPath" value="Engineering-Tools/psmq" />
+          <option name="remote" value="git@gitlab.otxlab.net:Engineering-Tools/psmq.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="4622" />
+          <option name="host" value="https://gitlab.otxlab.net" />
+          <option name="projectName" value="PSMQ" />
+          <option name="projectPath" value="Engineering-Tools/psmq" />
+          <option name="remote" value="git@gitlab.otxlab.net:Engineering-Tools/psmq.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="4622" />
+          <option name="host" value="https://gitlab.otxlab.net" />
+          <option name="projectName" value="PSMQ" />
+          <option name="projectPath" value="Engineering-Tools/psmq" />
+          <option name="remote" value="git@gitlab.otxlab.net:Engineering-Tools/psmq.git" />
+        </Mapping>
+      </list>
+    </option>
+  </component>
+</application>
