@@ -50,6 +50,7 @@
     <option name="INDENT_PROTECTED_METHODS" value="true" />
     <option name="INDENT_PUBLIC_METHODS" value="true" />
     <option name="INDENT_WHEN_CASES" value="true" />
+    <option name="CHAIN_CALLS_ALIGNMENT" value="0" />
   </Ruby>
   <SQLiteCodeStyleSettings version="6">
     <option name="USE_GENERIC_STYLE" value="true" />
@@ -111,6 +112,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <indentOptions>
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
