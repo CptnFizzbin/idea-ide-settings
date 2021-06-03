@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="bp2-rptuat-l001.otxlab.net" id="5fab8f4b-7298-439d-85c1-079dffc480c9" port="22" nameFormat="DESCRIPTIVE" username="portaladmin" />
+    </configs>
+  </component>
+</application>

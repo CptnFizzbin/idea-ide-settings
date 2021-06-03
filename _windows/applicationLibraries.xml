@@ -1,0 +1,336 @@
+<application>
+  <component name="libraryTable">
+    <library name="benchmark (v0.1.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="bigdecimal (v3.0.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="bundler (v2.2.15, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/ui" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/cli" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/man" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/source" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/settings" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/installer" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/templates" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/compact_index_client" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/ui" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/cli" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/man" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/source" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/settings" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/installer" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/templates" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/compact_index_client" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/ui" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/cli" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/man" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/source" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/settings" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/installer" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/templates" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/bundler/compact_index_client" />
+      </excluded>
+    </library>
+    <library name="cgi (v0.2.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/cgi/session" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/cgi/session" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/cgi/session" />
+      </excluded>
+    </library>
+    <library name="csv (v3.1.9, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/csv/core_ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/csv/core_ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/csv/core_ext" />
+      </excluded>
+    </library>
+    <library name="did_you_mean (v1.5.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/spell_checkers" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/spell_checkers" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/did_you_mean/spell_checkers" />
+      </excluded>
+    </library>
+    <library name="digest (v3.0.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="drb (v2.0.4, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fiddle (v1.0.6, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="forwardable (v1.3.2, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="io-console (v0.5.7, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="irb (v1.3.5, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/lc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/cmd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/lc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/cmd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/lc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/cmd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/irb/ext" />
+      </excluded>
+    </library>
+    <library name="json (v2.5.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/json/add" />
+      </excluded>
+    </library>
+    <library name="logger (v1.4.3, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="matrix (v0.3.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="net-http (v0.1.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="openssl (v2.2.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="optparse (v0.1.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="psych (v3.3.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/json" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/nodes" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/handlers" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/json" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/nodes" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/handlers" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/json" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/nodes" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/handlers" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/psych/visitors" />
+      </excluded>
+    </library>
+    <library name="racc (v1.5.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rdoc (v6.3.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/context" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/context" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/context" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/rdoc/generator" />
+      </excluded>
+    </library>
+    <library name="reline (v0.2.5, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/reline/unicode" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/reline/key_actor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/reline/unicode" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/reline/key_actor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/reline/unicode" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/3.0.0/reline/key_actor" />
+      </excluded>
+    </library>
+    <library name="rinda (v0.1.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="set (v1.0.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="syslog (v0.1.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="uri (v0.10.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="yaml (v0.1.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
