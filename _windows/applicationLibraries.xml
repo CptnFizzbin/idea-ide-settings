@@ -46,20 +46,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/backport-1.1.2/bin" />
       </excluded>
     </library>
-    <library name="benchmark (v0.1.1, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="benchmark (v0.1.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="benchmark (v0.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -88,20 +74,6 @@
       </SOURCES>
     </library>
     <library name="bigdecimal (v1.4.1, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="bigdecimal (v3.0.0, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="bigdecimal (v3.0.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -447,34 +419,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/diff-lcs-1.4.4/autotest" />
       </excluded>
     </library>
-    <library name="digest (v3.0.0, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="digest (v3.0.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="drb (v2.0.4, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="drb (v2.0.4, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="e2mmap (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -544,20 +488,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="fiddle (v1.0.6, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="fiddle (v1.0.6, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="fileutils (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -566,20 +496,6 @@
       <SOURCES />
     </library>
     <library name="forwardable (v1.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="forwardable (v1.3.2, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="forwardable (v1.3.2, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -633,20 +549,6 @@
       </excluded>
     </library>
     <library name="io-console (v0.4.7, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="io-console (v0.5.6, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="io-console (v0.5.7, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -744,35 +646,7 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/kramdown-parser-gfm-1.1.0/test" />
       </excluded>
     </library>
-    <library name="logger (v1.4.3, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="logger (v1.4.3, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="matrix (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="matrix (v0.3.1, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="matrix (v0.3.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -861,20 +735,6 @@
       <excluded>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/neatjson-0.9/test" />
       </excluded>
-    </library>
-    <library name="net-http (v0.1.1, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="net-http (v0.1.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="net-ssh (v6.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -967,34 +827,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="openssl (v2.2.0, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="openssl (v2.2.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="optparse (v0.1.0, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="optparse (v0.1.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="parallel (v1.20.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1079,34 +911,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/handlers" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/psych/visitors" />
       </excluded>
-    </library>
-    <library name="racc (v1.5.1, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="racc (v1.5.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="rails (v6.1.3.1, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="rails (v6.1.3.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="rainbow (v3.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -1244,20 +1048,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rexml/formatters" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/2.6.0/rexml/validation" />
       </excluded>
-    </library>
-    <library name="rinda (v0.1.0, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="rinda (v0.1.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="roo (v1.13.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -1634,20 +1424,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/selenium-webdriver-4.0.0.alpha6/lib" />
       </SOURCES>
     </library>
-    <library name="set (v1.0.1, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="set (v1.0.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="shell (v0.7, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1764,20 +1540,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/bin" />
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/spreadsheet-1.2.4/test" />
       </excluded>
-    </library>
-    <library name="syslog (v0.1.0, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="syslog (v0.1.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="test-unit (v3.2.9, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -1897,20 +1659,6 @@
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/unicode-display_width-2.0.0/data" />
       </excluded>
     </library>
-    <library name="uri (v0.10.1, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="uri (v0.10.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="webrick (v1.4.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2003,20 +1751,6 @@
       <excluded>
         <root url="file://C:/langs/ruby/Ruby26-x64/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
       </excluded>
-    </library>
-    <library name="yaml (v0.1.1, Remote: ruby-3.0.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="yaml (v0.1.1, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="yard (v0.9.26, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
