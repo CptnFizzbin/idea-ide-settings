@@ -20,12 +20,19 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="sh" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sh" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
