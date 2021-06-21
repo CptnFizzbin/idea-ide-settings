@@ -1,17 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="useMaterialFont2" value="true" />
-    <option name="useMaterialWallpapers" value="true" />
     <option name="settingsSelectedTab" value="4" />
-    <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="0080c6" />
-    <option name="secondAccentColor" value="002d32" />
-    <option name="selectedTheme" value="CUSTOM" />
-    <option name="userId" value="12ca64b9:168bdadbde7:-8000" />
-    <option name="version" value="6.5.0.1" />
-    <option name="stripedToolWindowsEnabled" value="true" />
-    <option name="showWhatsNew" value="false" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="4eb294f3:17a2ea66dd6:-8000" />
   </component>
 </application>
