@@ -9,28 +9,12 @@
           <option name="projectPath" value="Engineering-Tools/psmq" />
           <option name="remote" value="git@gitlab.otxlab.net:Engineering-Tools/psmq.git" />
         </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="4622" />
-          <option name="host" value="https://gitlab.otxlab.net" />
-          <option name="projectName" value="PSMQ" />
-          <option name="projectPath" value="Engineering-Tools/psmq" />
-          <option name="remote" value="git@gitlab.otxlab.net:Engineering-Tools/psmq.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="4622" />
-          <option name="host" value="https://gitlab.otxlab.net" />
-          <option name="projectName" value="PSMQ" />
-          <option name="projectPath" value="Engineering-Tools/psmq" />
-          <option name="remote" value="git@gitlab.otxlab.net:Engineering-Tools/psmq.git" />
-        </Mapping>
-        <Mapping>
-          <option name="gitlabProjectId" value="4622" />
-          <option name="host" value="https://gitlab.otxlab.net" />
-          <option name="projectName" value="PSMQ" />
-          <option name="projectPath" value="Engineering-Tools/psmq" />
-          <option name="remote" value="git@gitlab.otxlab.net:Engineering-Tools/psmq.git" />
-        </Mapping>
       </list>
     </option>
+    <option name="mergeRequestTargetBranch" value="dev" />
+    <option name="showConnectionErrors" value="false" />
+    <option name="showForTags" value="false" />
+    <option name="showNotificationForWatchedBranches" value="false" />
+    <option name="urlOpenerCommand" value="" />
   </component>
 </application>
