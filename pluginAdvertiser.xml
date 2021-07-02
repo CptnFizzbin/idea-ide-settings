@@ -247,6 +247,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="RailsFacetType">
+                    <value>
+                      <FeaturePluginData displayName="Ruby on Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="Spring">
                     <value>
                       <FeaturePluginData displayName="Spring" pluginName="Spring" pluginId="com.intellij.spring" bundled="true" />
@@ -260,6 +265,11 @@
                   <entry key="ejb">
                     <value>
                       <FeaturePluginData displayName="EJB" pluginName="Java EE: Enterprise Java Beans (EJB)" pluginId="com.intellij.javaee.ejb" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="gem">
+                    <value>
+                      <FeaturePluginData displayName="Gem" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="hibernate">
