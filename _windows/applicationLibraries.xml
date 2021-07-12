@@ -691,18 +691,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.4.1/ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.4.1/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.4.1/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.4.1/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.4.1/ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.4.1/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.4.1/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.4.1/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.4.1/ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.4.1/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.4.1/test" />
       </excluded>
     </library>
     <library name="debase (v0.2.5.beta2, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
@@ -710,18 +710,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.5.beta2/ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.5.beta2/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.5.beta2/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.5.beta2/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.5.beta2/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.5.beta2/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.5.beta2/ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.5.beta2/lib" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.5.beta2/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.5.beta2/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.5.beta2/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.5.beta2/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.5.beta2/ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-0.2.5.beta2/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.5.beta2/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-0.2.5.beta2/test" />
       </excluded>
     </library>
     <library name="debase-ruby_core_source (v0.10.12, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
@@ -729,10 +729,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-ruby_core_source-0.10.12/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-ruby_core_source-0.10.12/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/debase-ruby_core_source-0.10.12/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/debase-ruby_core_source-0.10.12/lib" />
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.5.0, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
@@ -1997,25 +1997,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/rss-0.2.9/test" />
-      </excluded>
-    </library>
-    <library name="ruby-debug-ide (v0.7.1.beta3, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/ruby-debug-ide-0.7.1.beta3/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/ruby-debug-ide-0.7.1.beta3/ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/ruby-debug-ide-0.7.1.beta3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/ruby-debug-ide-0.7.1.beta3/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/ruby-debug-ide-0.7.1.beta3/ext" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/ruby-debug-ide-0.7.1.beta3/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/ruby-debug-ide-0.7.1.beta3/bin" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2021.1/ruby_stubs/-950378935/home/stephen/.local/share/gem/ruby/3.0.0/gems/ruby-debug-ide-0.7.1.beta3/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.7.2, Remote: ruby-3.0.1-p64) [gem]" type="rubylib">
