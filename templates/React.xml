@@ -22,7 +22,7 @@
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="props" value="interface $ComponentName$Props {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="props" value="interface $ComponentName$Props {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="ComponentName" expression="&quot;Component&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TS_CLASS" value="true" />
