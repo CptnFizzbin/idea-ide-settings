@@ -1,4 +1,11 @@
 <application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="bigger.font.in.project.view" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="defaultProjectDirectory" value="C:\dev" />
@@ -22,6 +29,7 @@
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
+        <entry key="mtStatusBar" value="false" />
       </map>
     </option>
   </component>
