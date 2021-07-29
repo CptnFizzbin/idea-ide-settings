@@ -1,11 +1,4 @@
 <application>
-  <component name="AdvancedSettings">
-    <option name="settings">
-      <map>
-        <entry key="bigger.font.in.project.view" value="true" />
-      </map>
-    </option>
-  </component>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="defaultProjectDirectory" value="C:\dev" />
@@ -23,7 +16,6 @@
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
