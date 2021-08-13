@@ -5,9 +5,9 @@
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".p4config" type=".env file" />
       <mapping pattern="ExceptionRequestApi" type="AUTO_DETECTED" />
+      <mapping pattern="index,ts" type="AUTO_DETECTED" />
       <mapping pattern="bd_version_sync_worker" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
-      <mapping pattern="index,ts" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
@@ -31,7 +31,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ms" type="Handlebars/Mustache" />
-      <mapping ext="rb" type="Ruby" />
     </extensionMap>
   </component>
 </application>
