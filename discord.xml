@@ -11,9 +11,10 @@
     <option name="applicationTime" value="APPLICATION" />
     <option name="projectDetailsCustom" value="" />
     <option name="projectStateCustom" value="" />
+    <option name="projectIconLargeText" value="APPLICATION_NAME" />
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
-    <option name="projectTime" value="APPLICATION" />
+    <option name="projectTime" value="PROJECT_TOTAL" />
     <option name="fileDetails" value="PROJECT_NAME" />
     <option name="fileDetailsCustom" value="" />
     <option name="fileState" value="FILE_NAME" />
@@ -22,10 +23,10 @@
     <option name="fileIconLargeText" value="APPLICATION_VERSION" />
     <option name="fileIconLargeTextCustom" value="" />
     <option name="fileIconSmall" value="FILE" />
-    <option name="fileIconSmallText" value="FILE_LANGUAGE" />
+    <option name="fileIconSmallText" value="FILE_NAME" />
     <option name="fileIconSmallTextCustom" value="" />
     <option name="fileTime" value="APPLICATION" />
-    <option name="filePrefixEnabled" value="true" />
+    <option name="filePrefixEnabled" value="false" />
     <option name="fileHideVcsIgnored" value="false" />
     <option name="applicationType" value="IDE_EDITION" />
     <option name="theme" value="material" />
