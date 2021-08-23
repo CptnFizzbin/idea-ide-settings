@@ -1,19 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="ms" type="Handlebars/Mustache" />
-      <mapping ext="s" type="PLAIN_TEXT" />
-      <mapping ext="webmanifest" type="JSON" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".p4config" type=".env file" />
-      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
-      <mapping pattern=".p4keep" type="PLAIN_TEXT" />
-      <mapping pattern=".sassrc" type="PLAIN_TEXT" />
-      <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
+      <mapping ext="ms" type="Handlebars/Mustache" />
+      <mapping ext="webmanifest" type="JSON" />
+      <mapping pattern="*.js.snap" type="JavaScript" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".nvm" type="PLAIN_TEXT" />
+      <mapping pattern=".sassrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".p4keep" type="PLAIN_TEXT" />
+      <mapping ext="s" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
