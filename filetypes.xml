@@ -2,14 +2,16 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern=".env.example" type=".env file" />
+      <mapping pattern=".p4config" type=".env file" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".p4keep" type="PLAIN_TEXT" />
       <mapping ext="p4keep" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
@@ -25,9 +27,6 @@
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".p4ignore" approved="true" type="Perforce File" />
       <mapping ext="ms" type="Handlebars/Mustache" />
-      <mapping ext="rb" type="Ruby" />
-      <mapping pattern=".env.example" type=".env file" />
-      <mapping pattern=".p4config" type=".env file" />
     </extensionMap>
   </component>
 </application>
