@@ -66,4 +66,5 @@
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl x" />
   </action>
+  <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
