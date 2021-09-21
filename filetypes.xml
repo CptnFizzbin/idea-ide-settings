@@ -5,17 +5,17 @@
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".p4config" type=".env file" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
-      <mapping pattern="3-request_jira_tickets_view" type="AUTO_DETECTED" />
+      <mapping pattern="BalanceLogTable" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".p4keep" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".p4keep" type="PLAIN_TEXT" />
       <mapping ext="p4keep" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
