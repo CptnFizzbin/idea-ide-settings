@@ -5,6 +5,7 @@
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".p4config" type=".env file" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
+      <mapping pattern="3-request_jira_tickets_view" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
