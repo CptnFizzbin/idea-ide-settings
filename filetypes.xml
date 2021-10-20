@@ -12,6 +12,7 @@
       <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".p4keep" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
