@@ -1,6 +1,32 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="2021.1" />
+    <option name="pluginVersion" value="2021.2" />
     <option name="popupShown" value="true" />
+  </component>
+  <component name="PerlInterpreters">
+    <perl version="2">
+      <name value="Local, System: Perl 5.34.0" />
+      <type value="Perl5 Interpreter" />
+      <version value="5.34.0 for x86_64-linux-thread-multi" />
+      <homePath value="/usr/bin/perl" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib64/perl5/vendor_perl" type="simple" />
+            <root url="file:///usr/share/perl5/vendor_perl" type="simple" />
+            <root url="file:///usr/lib64/perl5" type="simple" />
+            <root url="file:///usr/share/perl5" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="system" />
+      </additional>
+    </perl>
   </component>
 </application>
