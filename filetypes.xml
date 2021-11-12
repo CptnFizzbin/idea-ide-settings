@@ -7,7 +7,6 @@
       <mapping pattern="BalanceLogTable" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
-      <mapping ext="lgt" type="Logtalk resource" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
@@ -32,6 +31,7 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".p4ignore" approved="true" type="Perforce File" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ms" type="Handlebars/Mustache" />
       <mapping ext="space.kts" type="Kotlin" />
