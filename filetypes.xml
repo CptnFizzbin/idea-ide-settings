@@ -7,7 +7,6 @@
       <mapping pattern="CharacterApi" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
       <mapping pattern="BalanceLogTable" type="AUTO_DETECTED" />
-      <removed_mapping pattern=".env" type="Env File" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
@@ -32,6 +31,7 @@
       <removed_mapping ext="sh" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" type="Env File" />
       <removed_mapping pattern=".p4ignore" approved="true" type="Perforce File" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="lgt" type="Logtalk resource" />
