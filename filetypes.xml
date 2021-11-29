@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern=".env.example" type=".env file" />
+      <mapping pattern=".p4config" type=".env file" />
+      <mapping pattern="SpellDicePools" type="AUTO_DETECTED" />
       <mapping pattern="CharacterApi" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
       <mapping pattern="BalanceLogTable" type="AUTO_DETECTED" />
@@ -19,6 +22,7 @@
       <mapping ext="p4keep" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
@@ -29,14 +33,13 @@
       <removed_mapping ext="sh" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".p4ignore" approved="true" type="Perforce File" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ms" type="Handlebars/Mustache" />
       <mapping ext="space.kts" type="Kotlin" />
-      <mapping pattern=".env.example" type=".env file" />
-      <mapping pattern=".p4config" type=".env file" />
     </extensionMap>
   </component>
 </application>
