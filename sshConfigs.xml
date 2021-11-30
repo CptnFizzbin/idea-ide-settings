@@ -2,6 +2,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="bp2-rptuat-l001.otxlab.net" id="5fab8f4b-7298-439d-85c1-079dffc480c9" port="22" nameFormat="DESCRIPTIVE" username="portaladmin" />
+      <sshConfig authType="PASSWORD" host="localhost" id="d2d68c3d-a8a9-4036-9fe2-bc5f25b0cccb" port="2222" customName="swilson2@localhost:2222" nameFormat="CUSTOM" username="swilson2" useOpenSSHConfig="true">
+        <option name="customName" value="swilson2@localhost:2222" />
+      </sshConfig>
     </configs>
   </component>
 </application>
