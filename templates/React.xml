@@ -1,0 +1,34 @@
+<templateSet group="React">
+  <template name="fc" value="import {FC} from 'react';&#10;&#10;interface $PROPS$ {&#10;    $END$&#10;}&#10;&#10;$EXPORT$const $NAME$: FC&lt;$PROPS$&gt; = ({&#10;    // props&#10;}) =&gt; {&#10;    return (&#10;        &lt;div&gt;$NAME$&lt;/div&gt;&#10;    );&#10;};" description="Generate functional react component" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="Component" alwaysStopAt="true" />
+    <variable name="PROPS" expression="concat(NAME, &quot;Props&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="EXPORT" expression="&quot;export &quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="fc-" value="import {FC} from 'react';&#10;&#10;$EXPORT$const $NAME$: FC = () =&gt; {&#10;    $END$return (&#10;        &lt;div&gt;$NAME$&lt;/div&gt;&#10;    );&#10;};" description="Generate propless functional react component" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="Component" alwaysStopAt="true" />
+    <variable name="EXPORT" expression="&quot;export &quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="useState" value="const [$varName$, $setVarName$] = useState&lt;$type$&gt;($default$);" description="generate useState hook" toReformat="false" toShortenFQNames="true">
+    <variable name="varName" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="setVarName" expression="concat(&quot;set&quot;, capitalize(varName))" defaultValue="" alwaysStopAt="false" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="default" expression="&quot;null&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="props" value="interface $ComponentName$Props {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="ComponentName" expression="&quot;Component&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TS_CLASS" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
