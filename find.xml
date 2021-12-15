@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <mask>*_spec.rb</mask>
+    <option name="FILE_MASK" value="*_spec.rb" />
     <mask>*.erb</mask>
     <mask>*.py</mask>
     <mask>*.js, *.html</mask>
@@ -23,5 +23,6 @@
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
     <mask>*.rb</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
