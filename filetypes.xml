@@ -25,6 +25,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
