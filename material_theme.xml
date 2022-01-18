@@ -3,6 +3,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="useMaterialFont" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -17,7 +18,7 @@
     <option name="secondAccentColor" value="002d32" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="12ca64b9:168bdadbde7:-8000" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="6.12.2" />
     <option name="showWhatsNew" value="false" />
   </component>
 </application>
