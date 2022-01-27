@@ -24,6 +24,7 @@
       <NestingRule child-file-suffix=".scss" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".less" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".less" />
+      <NestingRule child-file-suffix=".html" parent-file-suffix=".py" />
       <NestingRule child-file-suffix=".ms" parent-file-suffix=".py" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".sass" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".sass" />
