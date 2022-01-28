@@ -5,6 +5,7 @@
       <mapping pattern="add_alt" type="AUTO_DETECTED" />
       <mapping pattern="SpellDicePools" type="AUTO_DETECTED" />
       <mapping pattern="CharacterApi" type="AUTO_DETECTED" />
+      <mapping pattern="verify" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
       <mapping pattern="BalanceLogTable" type="AUTO_DETECTED" />
       <mapping pattern="renew" type="AUTO_DETECTED" />
