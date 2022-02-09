@@ -8,8 +8,8 @@
       <mapping pattern="verify" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
       <mapping pattern="BalanceLogTable" type="AUTO_DETECTED" />
+      <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="renew" type="AUTO_DETECTED" />
-      <mapping ext="ms" type="Handlebars/Mustache" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
@@ -45,6 +45,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="ms" type="Handlebars/Mustache" />
       <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
