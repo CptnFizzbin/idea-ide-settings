@@ -86,11 +86,6 @@
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
-      <entry key="Stage">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
-        </PlaceSettings>
-      </entry>
     </option>
     <option name="SHARED_SETTINGS">
       <SharedSettings>
