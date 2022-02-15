@@ -11,7 +11,6 @@
     <mask>*.js</mask>
     <mask>*.groovy</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.ru</mask>
     <mask>*.gemspec</mask>
@@ -21,5 +20,6 @@
     <mask>*.rbw</mask>
     <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.html</mask>
   </component>
 </application>
