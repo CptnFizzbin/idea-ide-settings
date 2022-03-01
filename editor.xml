@@ -15,6 +15,11 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
     <option name="disabledLanguages">
       <set>
         <option value="Angular2Html" />
@@ -22,12 +27,12 @@
         <option value="kotlin" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="ts.type.hints" />
     <settingsMapElement>
       <TypeScript.ts.type.hints>
         <Settings>
           <option name="showForFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
+          <option name="showForInferredParameters" value="false" />
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
