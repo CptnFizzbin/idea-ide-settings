@@ -11,8 +11,6 @@
       <mapping pattern="verify" type="AUTO_DETECTED" />
       <mapping pattern="202202160947_add_env_column_to_db_meta" type="AUTO_DETECTED" />
       <mapping pattern="renew" type="AUTO_DETECTED" />
-      <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
-      <mapping pattern="BalanceLogTable" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
@@ -21,8 +19,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".p4keep" type="PLAIN_TEXT" />
-      <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="p4keep" type="PLAIN_TEXT" />
