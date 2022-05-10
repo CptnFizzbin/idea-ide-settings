@@ -4,24 +4,19 @@
     <extensionMap>
       <mapping pattern="add_alt" type="AUTO_DETECTED" />
       <mapping pattern="SpellDicePools" type="AUTO_DETECTED" />
-      <mapping pattern="CharacterApi" type="AUTO_DETECTED" />
-      <mapping pattern="admin_index_page" type="AUTO_DETECTED" />
-      <mapping pattern="verify" type="AUTO_DETECTED" />
-      <mapping pattern="prepare-commit" type="AUTO_DETECTED" />
-      <mapping pattern="BalanceLogTable" type="AUTO_DETECTED" />
       <mapping pattern="PhtFamilies" type="AUTO_DETECTED" />
+      <mapping pattern="admin_index_page" type="AUTO_DETECTED" />
+      <mapping pattern="CharacterApi" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
+      <mapping pattern="verify" type="AUTO_DETECTED" />
       <mapping pattern="202202160947_add_env_column_to_db_meta" type="AUTO_DETECTED" />
       <mapping pattern="renew" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
-      <mapping pattern="*.js.snap" type="JavaScript" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".p4keep" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
@@ -47,6 +42,7 @@
       <removed_mapping pattern=".p4config" approved="true" type=".env file" />
       <removed_mapping pattern=".p4ignore" approved="true" type="Perforce File" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ms" type="Handlebars/Mustache" />
