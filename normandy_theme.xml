@@ -2,6 +2,7 @@
   <component name="NormandyConfig">
     <option name="primaryThemeColor" value="#a10001" />
     <option name="transparentBackground" value="true" />
+    <option name="userId" value="792d19a1-009d-4160-a26c-73940c8fc359" />
     <option name="version" value="v1.9.0" />
   </component>
 </application>
