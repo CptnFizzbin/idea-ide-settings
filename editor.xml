@@ -7,7 +7,7 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
@@ -15,6 +15,11 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
     <option name="disabledLanguages">
       <set>
         <option value="Angular2Html" />
@@ -22,15 +27,19 @@
         <option value="kotlin" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="ts.type.hints" />
     <settingsMapElement>
       <TypeScript.ts.type.hints>
         <Settings>
           <option name="showForFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
+          <option name="showForInferredParameters" value="false" />
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
+  </component>
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
+    <option name="suggestAliasNames" value="false" />
+    <option name="useAliasInJoinCompletion" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

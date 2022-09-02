@@ -22,6 +22,15 @@
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt home" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
@@ -36,11 +45,15 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl l" />
   </action>
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl s" />
   </action>
   <action id="Graph.RouteEdges" />
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceField" />
   <action id="Move">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
   </action>
@@ -65,11 +78,15 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl x" />
   </action>
+  <action id="ShowFilterPopup" />
   <action id="Terminal.SwitchFocusToEditor" />
+  <action id="UsageGrouping.FileStructure" />
 </keymap>
