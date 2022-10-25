@@ -5,20 +5,21 @@
       <mapping pattern="add_alt" type="AUTO_DETECTED" />
       <mapping pattern="SpellDicePools" type="AUTO_DETECTED" />
       <mapping pattern="CharacterApi" type="AUTO_DETECTED" />
-      <mapping pattern="admin_index_page" type="AUTO_DETECTED" />
       <mapping pattern="verify" type="AUTO_DETECTED" />
       <mapping pattern="PhtFamilies" type="AUTO_DETECTED" />
+      <mapping pattern="admin_index_page" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="202202160947_add_env_column_to_db_meta" type="AUTO_DETECTED" />
       <mapping pattern="renew" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
+      <mapping ext="tgz" type="Native" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".p4keep" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />

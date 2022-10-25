@@ -1,38 +1,26 @@
 <templateSet group="JavaScript Testing">
-  <template name="it" value="it('$NAME$', function() {&#10;  $END$&#10;}); " description="Inserts it() block" toReformat="true" toShortenFQNames="true">
+  <template name="it" value="it('$NAME$', async () =&gt; {&#10;  $END$&#10;}); " description="Inserts it() block" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="cont" value="context('when $NAME$', function() {&#10;  $END$&#10;}); " description="Inserts context() block" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="afa" value="afterAll(async () =&gt; {&#10;  $END$&#10;});" description="Inserts async after() block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="ita" value="it('$NAME$', async function() {&#10;  $END$&#10;}); " description="Inserts async it() block" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="bfa" value="beforeAll(async () =&gt; {&#10;  $END$&#10;});" description="Inserts async before() block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="bfea" value="beforeEach(async function() {&#10;  $END$&#10;});" description="Inserts async beforeEach() block" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+  <template name="descr" value="describe('$NAME$', () =&gt; {&#10;  $END$&#10;});" description="Inserts describe() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="afa" value="after(async function() {&#10;  $END$&#10;});" description="Inserts async after() block" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+  <template name="bfe" value="beforeEach(async () =&gt; {&#10;  $END$&#10;});" description="Inserts beforeEach() block" toReformat="true" toShortenFQNames="true">
+    <context />
   </template>
-  <template name="afea" value="afterEach(async function() {&#10;  $END$&#10;});" description="Inserts async afterEach() block" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JS_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="bfa" value="before(async function() {&#10;  $END$&#10;});" description="Inserts async before() block" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+  <template name="afe" value="afterEach(async () =&gt; {&#10;  $END$&#10;});" description="Inserts afterEach() block" toReformat="true" toShortenFQNames="true">
+    <context />
   </template>
 </templateSet>

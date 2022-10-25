@@ -119,6 +119,14 @@
           <option name="key" value="shell_command exists" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="af" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="bf" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="React" />
           <option name="key" value="bnd" />
         </TemplateKey>
@@ -185,10 +193,6 @@
         <TemplateKey>
           <option name="groupName" value="React" />
           <option name="key" value="est" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="React" />
-          <option name="key" value="fcc" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
