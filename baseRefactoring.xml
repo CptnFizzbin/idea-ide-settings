@@ -7,5 +7,6 @@
   <component name="RefactoringSettings">
     <option name="EXTRACT_SUPERCLASS_JAVADOC" value="1" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_ACCESSORS" value="false" />
   </component>
 </application>
