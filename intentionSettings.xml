@@ -4,5 +4,6 @@
     <ignoreAction name="XML/Remove tag (preserves children)" />
     <ignoreAction name="Other/Rollback changes in current line" />
     <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
   </component>
 </application>
