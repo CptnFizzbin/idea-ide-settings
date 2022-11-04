@@ -1,14 +1,7 @@
 <templateSet group="React">
-  <template name="fc" value="import {FC} from 'react';&#10;&#10;interface $PROPS$ {&#10;    $END$&#10;}&#10;&#10;$EXPORT$const $NAME$: FC&lt;$PROPS$&gt; = ({&#10;    // props&#10;}) =&gt; {&#10;    return (&#10;        &lt;div&gt;$NAME$&lt;/div&gt;&#10;    );&#10;};" description="Generate functional react component" toReformat="true" toShortenFQNames="true">
+  <template name="fc" value="import {FC} from 'react';&#10;&#10;interface $PROPS$ {&#10;    $END$&#10;}&#10;&#10;$EXPORT$const $NAME$: FC&lt;$PROPS$&gt; = ({&#10;    // Props&#10;}) =&gt; {&#10;    return (&#10;        &lt;div&gt;$NAME$&lt;/div&gt;&#10;    );&#10;};" description="Generate functional react component" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="Component" alwaysStopAt="true" />
     <variable name="PROPS" expression="concat(NAME, &quot;Props&quot;)" defaultValue="" alwaysStopAt="false" />
-    <variable name="EXPORT" expression="&quot;export &quot;" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="fc-" value="import {FC} from 'react';&#10;&#10;$EXPORT$const $NAME$: FC = () =&gt; {&#10;    $END$return (&#10;        &lt;div&gt;$NAME$&lt;/div&gt;&#10;    );&#10;};" description="Generate propless functional react component" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="Component" alwaysStopAt="true" />
     <variable name="EXPORT" expression="&quot;export &quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
@@ -23,12 +16,27 @@
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="props" value="interface $ComponentName$Props {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="props" value="interface $ComponentName$Props {&#10;    children: ReactNode&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="ComponentName" expression="&quot;Component&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TS_CLASS" value="true" />
       <option name="TS_STATEMENT" value="true" />
       <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="fc-" value="import {FC} from 'react';&#10;&#10;$EXPORT$const $NAME$: FC = () =&gt; {&#10;    return (&#10;        &lt;div&gt;$NAME$&lt;/div&gt;&#10;    );&#10;};" description="Generate propless functional react component" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="Component" alwaysStopAt="true" />
+    <variable name="EXPORT" expression="&quot;export &quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="fcc" value="import {FC, ReactNode} from 'react';&#10;&#10;interface $PROPS$ {&#10;    $END$&#10;    children: ReactNode&#10;}&#10;&#10;$EXPORT$const $NAME$: FC&lt;$PROPS$&gt; = ({&#10;    //Props&#10;    children,&#10;}) =&gt; {&#10;    return (&#10;        &lt;div&gt;$NAME$&lt;/div&gt;&#10;    );&#10;};" description="Generate functional react component with children" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="Component" alwaysStopAt="true" />
+    <variable name="PROPS" expression="concat(NAME, &quot;Props&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="EXPORT" expression="&quot;export &quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
