@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL insert/replace</display-name>
+      <single-file value="true" />
+      <place disabled="true"><![CDATA[jsLiteral().withStringValueIgnoringInterpolations(stringMatchesBrics(" *(INSERT|REPLACE) .*INTO .*"))]]></place>
+    </injection>
+  </component>
+</application>

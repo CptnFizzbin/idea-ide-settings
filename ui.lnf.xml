@@ -16,15 +16,19 @@
       <NestingRule child-file-suffix=".map" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".min.js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".test.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".module.css" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".module.scss" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".sass" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".scss" parent-file-suffix=".jsx" />
+      <NestingRule child-file-suffix=".test.jsx" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".less" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".less" />
+      <NestingRule child-file-suffix=".html" parent-file-suffix=".py" />
       <NestingRule child-file-suffix=".ms" parent-file-suffix=".py" />
+      <NestingRule child-file-suffix=".html.erb" parent-file-suffix=".rb" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".sass" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".sass" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".scss" />
@@ -32,8 +36,11 @@
       <NestingRule child-file-suffix=".css" parent-file-suffix=".styl" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".factory.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".test.ts" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".testLib.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
@@ -43,12 +50,15 @@
       <NestingRule child-file-suffix=".module.scss" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".sass" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".scss" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".test.tsx" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
