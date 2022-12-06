@@ -1,4 +1,9 @@
 <application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="18.12.1" last-modified="1668604744532" />
+    </local-interpreter>
+  </component>
   <component name="NodeJsRemoteInterpreters">
     <interpreter node-remote-interpreter="docker://node:18/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="node:18" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
   </component>
@@ -6,5 +11,6 @@
     <wsl-interpreter distribution="Ubuntu" path="/home/swilson2/.nvm/versions/node/v18.11.0/bin/node" />
     <wsl-interpreter distribution="Ubuntu" path="/home/swilson2/.nvm/versions/node/v16.18.0/bin/node" />
     <wsl-interpreter distribution="Ubuntu" path="/home/swilson2/.nvm/versions/node/v18.12.1/bin/node" />
+    <wsl-interpreter distribution="Ubuntu" path="/home/swilson2/.nvm/versions/node/v19.0.1/bin/node" />
   </component>
 </application>
