@@ -6,5 +6,6 @@
     <wsl-interpreter distribution="Ubuntu" path="/home/swilson2/.nvm/versions/node/v18.11.0/bin/node" />
     <wsl-interpreter distribution="Ubuntu" path="/home/swilson2/.nvm/versions/node/v16.18.0/bin/node" />
     <wsl-interpreter distribution="Ubuntu" path="/home/swilson2/.nvm/versions/node/v18.12.1/bin/node" />
+    <wsl-interpreter distribution="Ubuntu" path="/home/stephen/.nvm/versions/node/v18.1.0/bin/node" />
   </component>
 </application>
