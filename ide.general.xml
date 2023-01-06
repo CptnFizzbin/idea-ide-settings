@@ -36,7 +36,6 @@
         <entry key="mtStatusBar" value="false" />
         <entry key="mtThemeFactory" value="false" />
         <entry key="pythonInterpreterWidget" value="false" />
-        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
