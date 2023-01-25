@@ -87,6 +87,11 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl x" />
   </action>
   <action id="ShowFilterPopup" />
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <mouse-shortcut keystroke="button3" />
+  </action>
   <action id="Terminal.SwitchFocusToEditor" />
   <action id="UsageGrouping.FileStructure" />
 </keymap>
