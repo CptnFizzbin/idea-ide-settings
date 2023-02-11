@@ -111,9 +111,9 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/debug-1.7.1/misc" />
       </SOURCES>
       <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/debug-1.7.1/exe" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/debug-1.7.1/ext" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/debug-1.7.1/misc" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/debug-1.7.1/exe" />
       </excluded>
     </library>
     <library name="did_you_mean (v1.6.3, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
@@ -311,9 +311,9 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/benchmarks" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/benchmarks" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/rakelib" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/docs" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/rakelib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/benchmarks" />
       </excluded>
     </library>
     <library name="net-pop (v0.1.2, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
@@ -441,8 +441,8 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rake-13.0.6/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rake-13.0.6/exe" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rake-13.0.6/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rake-13.0.6/exe" />
       </excluded>
     </library>
     <library name="rbs (v2.8.2, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
@@ -474,9 +474,9 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/exe" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/steep" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/ext" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/docs" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/steep" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/schema" />
       </excluded>
     </library>
@@ -619,8 +619,8 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/sample" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/sample" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/sample" />
       </excluded>
     </library>
     <library name="typeprof (v0.21.3, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
@@ -639,8 +639,8 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/tools" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/tools" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/tools" />
       </excluded>
     </library>
     <library name="uri (v0.12.0, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
