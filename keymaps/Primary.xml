@@ -75,9 +75,7 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
-  </action>
+  <action id="RenameElement" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -93,5 +91,6 @@
     <mouse-shortcut keystroke="button3" />
   </action>
   <action id="Terminal.SwitchFocusToEditor" />
+  <action id="UsageFiltering.ReadAccess" />
   <action id="UsageGrouping.FileStructure" />
 </keymap>
