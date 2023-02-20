@@ -8,6 +8,7 @@
       <mapping pattern="verify" type="AUTO_DETECTED" />
       <mapping pattern="PhtFamilies" type="AUTO_DETECTED" />
       <mapping pattern="admin_index_page" type="AUTO_DETECTED" />
+      <mapping pattern=".npmrc" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="202202160947_add_env_column_to_db_meta" type="AUTO_DETECTED" />
       <mapping pattern="renew" type="AUTO_DETECTED" />
