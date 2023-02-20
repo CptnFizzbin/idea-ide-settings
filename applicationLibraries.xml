@@ -184,6 +184,29 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/bundle/gems/ast-2.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.18, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/bcrypt-3.1.18/.github" />
+      </excluded>
+    </library>
     <library name="bcrypt (v3.1.18, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -384,6 +407,18 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/bundle/gems/concurrent-ruby-1.1.10/lib" />
       </excluded>
     </library>
+    <library name="crass (v1.0.6, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/crass-1.0.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/crass-1.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="crass (v1.0.6, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -410,6 +445,38 @@
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/lib/ruby/3.2.0/csv/core_ext" />
       </excluded>
+    </library>
+    <library name="debase (v0.2.4.1, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-0.2.4.1/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-0.2.4.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-0.2.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-0.2.4.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.17, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-ruby_core_source-0.10.17/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/debase-ruby_core_source-0.10.17/lib" />
+      </SOURCES>
     </library>
     <library name="debug (v1.7.1, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
@@ -662,6 +729,29 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/lib/ruby/3.2.0/irb/ext" />
       </excluded>
     </library>
+    <library name="jbuilder (v2.11.5, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/.github" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/.github" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/.github" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/jbuilder-2.11.5/gemfiles" />
+      </excluded>
+    </library>
     <library name="jbuilder (v2.11.5, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -785,6 +875,26 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/lib/ruby/gems/3.2.0/gems/matrix-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v1.0.0, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/method_source-1.0.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/method_source-1.0.0/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/method_source-1.0.0/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/method_source-1.0.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/method_source-1.0.0/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/method_source-1.0.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/method_source-1.0.0/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/method_source-1.0.0/.circleci" />
+      </excluded>
+    </library>
     <library name="method_source (v1.0.0, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -816,6 +926,29 @@
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/bundle/gems/mini_magick-4.12.0/lib" />
       </SOURCES>
+    </library>
+    <library name="mini_mime (v1.1.2, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/bench" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/bench" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/bench" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/mini_mime-1.1.2/.github" />
+      </excluded>
     </library>
     <library name="mini_mime (v1.1.2, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
@@ -906,6 +1039,26 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/bundle/gems/msgpack-1.6.0/.github" />
       </excluded>
     </library>
+    <library name="multi_exiftool (v0.16.0, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/regtest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/regtest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/regtest" />
+      </excluded>
+    </library>
     <library name="net-ftp (v0.2.0, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -972,6 +1125,35 @@
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/lib/ruby/gems/3.2.0/gems/net-smtp-0.3.3/lib" />
       </SOURCES>
+    </library>
+    <library name="nio4r (v2.5.8, Remote: ruby-3.1.2-p20) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/.github" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/rakelib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/.github" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/rakelib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/.github" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/rakelib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/nio4r-2.5.8/examples" />
+      </excluded>
     </library>
     <library name="nio4r (v2.5.8, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
