@@ -5,6 +5,7 @@
         <added pattern="get(path,handlers)" />
       </blacklist>
     </blacklists>
+    <option id="js.only.show.names.for.tagged" value="false" />
     <option id="sql.show.column.names.in.select" value="true" />
   </component>
 </application>
