@@ -74,7 +74,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="ParameterInfo" />
-  <action id="ProblemsView.QuickFixes" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
@@ -92,12 +91,7 @@
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl x" />
   </action>
-  <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
-  <action id="SetShortcutAction" />
   <action id="ShowFilterPopup" />
-  <action id="ShowIntentionActions" />
+  <action id="TableResult.SelectAllOccurrences" />
   <action id="Terminal.SwitchFocusToEditor" />
-  <action id="UsageGrouping.FileStructure" />
 </keymap>
