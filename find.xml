@@ -2,7 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*.erb</mask>
@@ -17,10 +19,11 @@
     <mask>*.jbuilder</mask>
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
-    <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
     <mask>*.py</mask>
     <mask>*.tsx</mask>
     <mask>*.html</mask>
+    <mask>*.rb</mask>
+    <mask>*22_*.rb</mask>
   </component>
 </application>
