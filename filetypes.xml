@@ -13,7 +13,6 @@
       <mapping pattern="202202160947_add_env_column_to_db_meta" type="AUTO_DETECTED" />
       <mapping pattern="renew" type="AUTO_DETECTED" />
       <mapping pattern="codeseal" type="AUTO_DETECTED" />
-      <mapping ext="config" type="Ini" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping ext="gz" type="Native" />
