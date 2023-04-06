@@ -14,9 +14,6 @@
       <mapping pattern="renew" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
@@ -46,8 +43,11 @@
       <removed_mapping pattern=".env.example" approved="true" type=".env file" />
       <removed_mapping pattern=".p4config" approved="true" type=".env file" />
       <removed_mapping pattern=".p4ignore" approved="true" type="Perforce File" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="lgt" type="Logtalk resource" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ms" type="Handlebars/Mustache" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
