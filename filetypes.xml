@@ -14,6 +14,7 @@
       <mapping pattern="renew" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="*.js.snap" type="JavaScript" />
+      <mapping ext="jks" type="Native" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
