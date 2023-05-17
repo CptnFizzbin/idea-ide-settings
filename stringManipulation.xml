@@ -1,10 +1,10 @@
 <application>
   <component name="StringManipulationState">
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveDuplicateLinesAction" />
-        <option name="modelClass" value="osmedile.intellij.stringmanip.filter.RemoveDuplicatesSettings" />
-        <option name="modelData" value="&lt;RemoveDuplicatesSettings&gt;&#10;  &lt;option name=&quot;type&quot; value=&quot;REMOVE_LINE&quot; /&gt;&#10;&lt;/RemoveDuplicatesSettings&gt;" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
+        <option name="description" value="To Upper Case" />
+        <option name="textWithMnemonic" value="To UPPER CASE" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
