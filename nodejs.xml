@@ -1,6 +1,8 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="C:/Program Files/nodejs/node18/node.exe" excluded="true" />
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="18.15.0" last-modified="1682362398787" />
+    </local-interpreter>
   </component>
   <component name="WslNodeInterpreterManager">
     <wsl-interpreter distribution="Ubuntu" path="/home/swilson2/.nvm/versions/node/v19.3.0/bin/node" />
