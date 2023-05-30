@@ -3,7 +3,8 @@
     <option name="lastUpdateNotification" value="1.1.0" />
   </component>
   <component name="DiscordApplicationSettings">
-    <option name="show" value="true" />
+    <option name="show" value="false" />
+    <option name="idle" value="IDLE" />
     <option name="applicationDetailsCustom" value="" />
     <option name="applicationStateCustom" value="" />
     <option name="applicationIconLargeTextCustom" value="" />
@@ -30,6 +31,6 @@
     <option name="fileHideVcsIgnored" value="false" />
     <option name="applicationType" value="IDE_EDITION" />
     <option name="theme" value="material" />
-    <option name="applicationLastUpdateNotification" value="1.7.1" />
+    <option name="applicationLastUpdateNotification" value="1.11.0" />
   </component>
 </application>

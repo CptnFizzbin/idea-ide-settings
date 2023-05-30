@@ -17,10 +17,11 @@
     <mask>*.jbuilder</mask>
     <mask>*.rake</mask>
     <mask>*.rbw</mask>
-    <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
     <mask>*.py</mask>
     <mask>*.tsx</mask>
     <mask>*.html</mask>
+    <mask>*.rb</mask>
+    <mask>*22_*.rb</mask>
   </component>
 </application>
