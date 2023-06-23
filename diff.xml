@@ -117,6 +117,7 @@
       <entry key="Stage">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
         </PlaceSettings>
       </entry>
     </option>
