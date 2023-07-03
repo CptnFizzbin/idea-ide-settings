@@ -12,14 +12,8 @@
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="202202160947_add_env_column_to_db_meta" type="AUTO_DETECTED" />
       <mapping pattern="renew" type="AUTO_DETECTED" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
       <mapping ext="webmanifest" type="JSON" />
+      <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".p4ignore" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
@@ -49,7 +43,6 @@
       <removed_mapping pattern=".p4config" approved="true" type=".env file" />
       <removed_mapping pattern=".p4ignore" approved="true" type="Perforce File" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ms" type="Handlebars/Mustache" />
