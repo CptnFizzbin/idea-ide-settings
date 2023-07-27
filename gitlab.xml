@@ -1,0 +1,13 @@
+<application>
+  <component name="GitLabAccounts"><![CDATA[{
+  "accounts": [
+    {
+      "id": "dd807605-2eb8-47a0-9be3-466bc883cfbf",
+      "name": "swilson2",
+      "server": {
+        "uri": "https://gitlab.otxlab.net"
+      }
+    }
+  ]
+}]]></component>
+</application>
