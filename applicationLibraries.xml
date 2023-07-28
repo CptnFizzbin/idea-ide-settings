@@ -2052,6 +2052,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="benchmark (v0.2.1, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="bigdecimal (v3.1.1, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2093,6 +2101,14 @@
       <SOURCES />
     </library>
     <library name="bigdecimal (v3.1.3, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="bigdecimal (v3.1.3, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -2396,6 +2412,23 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/builder-3.2.4/doc" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/builder-3.2.4/test" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/builder-3.2.4/rakelib" />
+      </excluded>
+    </library>
+    <library name="bundler (v2.2.15, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/bundler-2.2.15/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/bundler-2.2.15/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/bundler-2.2.15/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/bundler-2.2.15/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/bundler-2.2.15/exe" />
       </excluded>
     </library>
     <library name="bundler (v2.3.23, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
@@ -2718,6 +2751,53 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1278798510/usr/local/lib/ruby/3.2.0/bundler/compact_index_client" />
       </excluded>
     </library>
+    <library name="bundler (v2.4.10, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/ui" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/cli" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/man" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/source" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/settings" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/installer" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/templates" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/compact_index_client" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/ui" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/cli" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/man" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/source" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/settings" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/installer" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/templates" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/compact_index_client" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/ui" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/cli" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/man" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/source" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/settings" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/installer" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/templates" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/bundler/compact_index_client" />
+      </excluded>
+    </library>
     <library name="bundler (v2.4.6, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2802,6 +2882,18 @@
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rubygems-update-3.4.7/bundler/exe" />
       </excluded>
+    </library>
+    <library name="bundler-unload (v1.0.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
     </library>
     <library name="byebug (v11.1.3, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
       <properties>
@@ -3011,6 +3103,21 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/cgi/session" />
+      </excluded>
+    </library>
+    <library name="cgi (v0.3.6, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/cgi/session" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/cgi/session" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/cgi/session" />
       </excluded>
     </library>
     <library name="chronic (v0.10.2, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
@@ -3378,6 +3485,21 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/csv/core_ext" />
       </excluded>
     </library>
+    <library name="csv (v3.2.6, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/csv/core_ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/csv/core_ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/csv/core_ext" />
+      </excluded>
+    </library>
     <library name="csv (v3.2.7, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3705,6 +3827,29 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/debug-1.7.1/misc" />
       </excluded>
     </library>
+    <library name="debug (v1.7.1, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/misc" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/misc" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/debug-1.7.1/misc" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.6.1, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3829,6 +3974,27 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/did_you_mean/core_ext" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/did_you_mean/formatters" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/did_you_mean/spell_checkers" />
+      </excluded>
+    </library>
+    <library name="did_you_mean (v1.6.3, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/spell_checkers" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/spell_checkers" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/formatters" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/did_you_mean/spell_checkers" />
       </excluded>
     </library>
     <library name="diff-lcs (v1.5.0, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
@@ -4059,6 +4225,21 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/digest/sha2" />
       </excluded>
     </library>
+    <library name="digest (v3.1.1, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/digest/sha2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/digest/sha2" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/digest/sha2" />
+      </excluded>
+    </library>
     <library name="dotenv (v2.8.1, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4281,6 +4462,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="drb (v2.1.1, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="erb (v2.2.3, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4329,6 +4518,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="erb (v4.0.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="error_highlight (v0.3.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4370,6 +4567,14 @@
       <SOURCES />
     </library>
     <library name="error_highlight (v0.5.1, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="error_highlight (v0.5.1, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -4448,6 +4653,35 @@
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/erubi-1.12.0/lib" />
       </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.6.1, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf-bundle" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf-truffleruby" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf-bundle" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf-truffleruby" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf-bundle" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/executable-hooks-1.6.1/test-tf-truffleruby" />
+      </excluded>
     </library>
     <library name="fastimage (v2.2.6, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
@@ -4731,6 +4965,26 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="fiddle (v1.1.1, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="fileutils (v1.5.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/fileutils-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/fileutils-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="forwardable (v1.3.2, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4778,6 +5032,34 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="forwardable (v1.3.3, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="gem-wrappers (v1.4.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/gem-wrappers-1.4.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/gem-wrappers-1.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/gem-wrappers-1.4.0/test" />
+      </excluded>
     </library>
     <library name="globalid (v1.0.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
@@ -5043,6 +5325,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="io-console (v0.6.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="irb (v1.4.1, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5167,6 +5457,27 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/irb/lc" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/irb/cmd" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/irb/ext" />
+      </excluded>
+    </library>
+    <library name="irb (v1.6.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/lc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/cmd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/lc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/cmd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/lc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/cmd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/irb/ext" />
       </excluded>
     </library>
     <library name="jbuilder (v2.11.5, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
@@ -5429,6 +5740,21 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/json/add" />
+      </excluded>
+    </library>
+    <library name="json (v2.6.3, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/json/add" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/json/add" />
       </excluded>
     </library>
     <library name="jwt (v2.6.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
@@ -5730,6 +6056,14 @@
       <SOURCES />
     </library>
     <library name="logger (v1.5.3, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="logger (v1.5.3, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -6073,6 +6407,18 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/matrix-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="matrix (v0.4.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/matrix-0.4.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/matrix-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v1.0.0, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6192,6 +6538,18 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/method_source-1.0.0/spec" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/method_source-1.0.0/.circleci" />
       </excluded>
+    </library>
+    <library name="mini_magick (v4.11.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/mini_magick-4.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/mini_magick-4.11.0/lib" />
+      </SOURCES>
     </library>
     <library name="mini_magick (v4.12.0, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
       <properties>
@@ -6469,6 +6827,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/minitest-5.16.3/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.16.3, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/minitest-5.16.3/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/minitest-5.16.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/minitest-5.16.3/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/minitest-5.16.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/minitest-5.16.3/test" />
       </excluded>
     </library>
     <library name="minitest (v5.17.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
@@ -6892,6 +7267,26 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/multi_exiftool-0.16.0/regtest" />
       </excluded>
     </library>
+    <library name="multi_exiftool (v0.16.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/multi_exiftool-0.16.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/multi_exiftool-0.16.0/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/multi_exiftool-0.16.0/regtest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/multi_exiftool-0.16.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/multi_exiftool-0.16.0/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/multi_exiftool-0.16.0/regtest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/multi_exiftool-0.16.0/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/multi_exiftool-0.16.0/regtest" />
+      </excluded>
+    </library>
     <library name="net-ftp (v0.1.3, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6974,6 +7369,18 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-ftp-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="net-ftp (v0.2.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-ftp-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-ftp-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="net-http (v0.2.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7015,6 +7422,14 @@
       <SOURCES />
     </library>
     <library name="net-http (v0.3.2, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="net-http (v0.3.2, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -7164,6 +7579,29 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/docs" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/rakelib" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/benchmarks" />
+      </excluded>
+    </library>
+    <library name="net-imap (v0.3.4, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/docs" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/rakelib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/docs" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/rakelib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/docs" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/rakelib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-imap-0.3.4/benchmarks" />
       </excluded>
     </library>
     <library name="net-imap (v0.3.6, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
@@ -7326,6 +7764,18 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-pop-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="net-pop (v0.1.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-pop-0.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-pop-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="net-protocol (v0.2.1, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7436,6 +7886,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/net-smtp-0.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-smtp (v0.3.3, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-smtp-0.3.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/net-smtp-0.3.3/lib" />
       </SOURCES>
     </library>
     <library name="nio4r (v2.5.8, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
@@ -7902,6 +8364,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="open3 (v0.1.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="openssl (v3.0.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7950,6 +8420,34 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="openssl (v3.1.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="optparse (v0.1.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/optparse-0.1.0/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/optparse-0.1.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/optparse-0.1.0/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/optparse-0.1.0/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/optparse-0.1.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/optparse-0.1.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/optparse-0.1.0/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/optparse-0.1.0/.github" />
+      </excluded>
+    </library>
     <library name="optparse (v0.2.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7991,6 +8489,14 @@
       <SOURCES />
     </library>
     <library name="optparse (v0.3.1, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="optparse (v0.3.1, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -8569,6 +9075,26 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.1/ruby_stubs/1266000312/home/stephen/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/phashion-1.2.0/test" />
       </excluded>
     </library>
+    <library name="phashion (v1.2.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/phashion-1.2.0/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/phashion-1.2.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/phashion-1.2.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/phashion-1.2.0/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/phashion-1.2.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/phashion-1.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/phashion-1.2.0/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/phashion-1.2.0/test" />
+      </excluded>
+    </library>
     <library name="power_assert (v2.0.1, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8639,6 +9165,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/power_assert-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v2.0.3, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/power_assert-2.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/power_assert-2.0.3/lib" />
       </SOURCES>
     </library>
     <library name="prime (v0.1.2, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
@@ -8741,6 +9279,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/prime-0.1.2/bin" />
+      </excluded>
+    </library>
+    <library name="prime (v0.1.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/prime-0.1.2/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/prime-0.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/prime-0.1.2/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/prime-0.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/prime-0.1.2/bin" />
       </excluded>
     </library>
     <library name="psych (v4.0.3, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
@@ -8885,6 +9440,30 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/psych/nodes" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/psych/handlers" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/psych/visitors" />
+      </excluded>
+    </library>
+    <library name="psych (v5.0.1, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/json" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/visitors" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/json" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/json" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/psych/visitors" />
       </excluded>
     </library>
     <library name="puma (v5.6.5, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
@@ -9182,6 +9761,14 @@
       <SOURCES />
     </library>
     <library name="racc (v1.6.2, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="racc (v1.6.2, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -10455,6 +11042,26 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rake-13.0.6/exe" />
       </excluded>
     </library>
+    <library name="rake (v13.0.6, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rake-13.0.6/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rake-13.0.6/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rake-13.0.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rake-13.0.6/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rake-13.0.6/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rake-13.0.6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rake-13.0.6/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rake-13.0.6/exe" />
+      </excluded>
+    </library>
     <library name="rb-fsevent (v0.11.2, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10887,6 +11494,41 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/schema" />
       </excluded>
     </library>
+    <library name="rbs (v2.8.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/sig" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/docs" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/steep" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/schema" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/sig" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/core" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/docs" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/steep" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/schema" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/stdlib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/docs" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/steep" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rbs-2.8.2/schema" />
+      </excluded>
+    </library>
     <library name="rdoc (v6.4.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11121,6 +11763,45 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/rdoc/generator" />
       </excluded>
     </library>
+    <library name="rdoc (v6.5.0, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/generator" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/rdoc/generator" />
+      </excluded>
+    </library>
     <library name="regexp_parser (v2.6.1, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11349,6 +12030,24 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/3.2.0/reline/key_actor" />
       </excluded>
     </library>
+    <library name="reline (v0.3.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/reline/unicode" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/reline/key_actor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/reline/unicode" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/reline/key_actor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/reline/unicode" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/3.2.0/reline/key_actor" />
+      </excluded>
+    </library>
     <library name="rexml (v3.2.5, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11451,6 +12150,23 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rexml-3.2.5/doc" />
       </excluded>
     </library>
+    <library name="rexml (v3.2.5, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rexml-3.2.5/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rexml-3.2.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rexml-3.2.5/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rexml-3.2.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rexml-3.2.5/doc" />
+      </excluded>
+    </library>
     <library name="rinda (v0.1.1, Docker: Zera-Art-Site - 3.2.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11492,6 +12208,14 @@
       <SOURCES />
     </library>
     <library name="rinda (v0.1.1, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="rinda (v0.1.1, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -12167,6 +12891,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rss-0.2.9/test" />
+      </excluded>
+    </library>
+    <library name="rss (v0.2.9, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rss-0.2.9/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rss-0.2.9/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rss-0.2.9/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rss-0.2.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rss-0.2.9/test" />
       </excluded>
     </library>
     <library name="rubocop (v1.43.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
@@ -12975,6 +13716,23 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/ruby-progressbar-1.13.0/lib" />
       </SOURCES>
     </library>
+    <library name="rubygems-bundler (v1.4.5, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rubygems-bundler-1.4.5/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rubygems-bundler-1.4.5/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rubygems-bundler-1.4.5/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rubygems-bundler-1.4.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rubygems-bundler-1.4.5/test" />
+      </excluded>
+    </library>
     <library name="rubygems-update (v3.4.7, Remote: ruby-3.2.0 (-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13027,6 +13785,38 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/rubygems-update-3.4.7/bundler" />
       </excluded>
     </library>
+    <library name="rvm (v1.11.3.9, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="set (v1.0.1, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/set-1.0.1/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/set-1.0.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/set-1.0.1/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/set-1.0.1/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/set-1.0.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/set-1.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/set-1.0.1/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/gems/ruby-3.2.2/gems/set-1.0.1/.github" />
+      </excluded>
+    </library>
     <library name="set (v1.0.2, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13068,6 +13858,14 @@
       <SOURCES />
     </library>
     <library name="set (v1.0.3, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="set (v1.0.3, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -13407,6 +14205,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="syntax_suggest (v1.0.2, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="syslog (v0.1.0, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13448,6 +14254,14 @@
       <SOURCES />
     </library>
     <library name="syslog (v0.1.1, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="syslog (v0.1.1, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -13573,6 +14387,26 @@
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/doc" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/sample" />
+      </excluded>
+    </library>
+    <library name="test-unit (v3.5.7, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/doc" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/test-unit-3.5.7/sample" />
       </excluded>
     </library>
     <library name="thor (v1.2.1, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
@@ -13921,6 +14755,26 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/1788110041/home/stephen/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/tools" />
       </excluded>
     </library>
+    <library name="typeprof (v0.21.3, WSL: 3.2.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/tools" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/RubyMine2023.2/ruby_stubs/-99096624/usr/share/rvm/rubies/ruby-3.2.2/lib/ruby/gems/3.2.0/gems/typeprof-0.21.3/tools" />
+      </excluded>
+    </library>
     <library name="tzinfo (v2.0.5, Remote: WSL - ruby-3.1.2-p20) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14160,6 +15014,14 @@
       <SOURCES />
     </library>
     <library name="uri (v0.12.0, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="uri (v0.12.1, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -14523,6 +15385,14 @@
       <SOURCES />
     </library>
     <library name="yaml (v0.2.1, WSL: 3.2.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="yaml (v0.2.1, WSL: 3.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
