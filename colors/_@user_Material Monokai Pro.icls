@@ -1,15 +1,11 @@
 <scheme name="_@user_Material Monokai Pro" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-04-04T13:54:21</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-08-27T10:17:11</property>
+    <property name="modified">2023-08-24T12:47:40</property>
     <property name="originalScheme">Material Monokai Pro</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="aedc70" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -2997,11 +2993,6 @@
         <option name="FOREGROUND" value="86dde9" />
       </value>
     </option>
-    <option name="RUBY_BAD_CHARACTER" baseAttributes="BAD_CHARACTER" />
-    <option name="RUBY_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="RUBY_CVAR" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="RUBY_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="RUBY_GVAR">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -3056,7 +3047,6 @@
         <option name="FOREGROUND" value="aedc70" />
       </value>
     </option>
-    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="aedc70" />
