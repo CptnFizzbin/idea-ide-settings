@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Postgres - LOCAL" group="LOCAL" uuid="a2cd4471-91f4-44b0-ada2-ac0d6d59bc9d">
+    <data-source source="LOCAL" name="Postgres - LOCAL" uuid="a2cd4471-91f4-44b0-ada2-ac0d6d59bc9d">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
