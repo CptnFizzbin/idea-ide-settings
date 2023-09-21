@@ -1,5 +1,5 @@
 <application>
   <component name="com.sburlyaev.cmd.plugin.PluginSettings">
-    <option name="favoriteTerminal" value="$USER_HOME$/AppData/Local/Programs/Terminus/Terminus.exe" />
+    <option name="favoriteTerminal" value="C:\Users\swilson2\AppData\Local\Programs\Tabby\Tabby.exe open ${projectDir}" />
   </component>
 </application>
