@@ -1,7 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://wlottrdev02.lab.opentext.com/ottr_test_data.xsd" location="$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/extResources/dd2b0759_ottr_test_data.xsd" />
-    <resource url="http://wlottrdev02.lab.opentext.com/ottr_test_run_data.xsd" location="$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/extResources/cfaa08d_ottr_test_run_data.xsd" />
-    <resource url="http://wlottrdev02.lab.opentext.com/ottr_user_data.xsd" location="$USER_HOME$/AppData/Local/JetBrains/RubyMine2020.2/extResources/2a507040_ottr_user_data.xsd" />
-  </component>
-</application>
